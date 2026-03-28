@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:10:57.350Z",
+  "lastUpdated": "2026-03-28T22:11:58.376Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -639,6 +639,20 @@
         "https://www.elle.co.kr/resources_old/online/org_online_image/el/c85c211e-d02b-4d9a-890a-21c0a7678c6a.jpg"
       ],
       "memo": ""
+    },
+    {
+      "id": "1774735918375",
+      "createdAt": "2026-03-28T22:11:58.375Z",
+      "magazine": "Allure",
+      "year": 2018,
+      "month": 2,
+      "issueInfo": "2월호",
+      "brand": "",
+      "country": "Korea",
+      "imageUrls": [
+        "https://img.allurekorea.com/allure/2018/01/style_5a5c8855ed95c.jpg"
+      ],
+      "memo": "Get it beauty 콜라보"
     }
   ]
 }
