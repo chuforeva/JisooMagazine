@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T21:39:54.509Z",
+  "lastUpdated": "2026-03-28T21:41:41.157Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -517,6 +517,22 @@
       "imageUrls": [
         "https://scontent.fykz1-1.fna.fbcdn.net/v/t1.6435-9/119552215_1245025215878900_8353607849647397971_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=8-9jVcx5syYQ7kNvwETL7WI&_nc_oc=AdpTnNWgode3S37thxUowb_VlNfOlORKEvFV_WPZeaeJKgDC81rHB4q_ZQsh2NXPMS0&_nc_zt=23&_nc_ht=scontent.fykz1-1.fna&_nc_gid=tY090YQffnCKXDpxjwmwSQ&_nc_ss=7a32e&oh=00_AfzVj6A0Dw5qy8I-yBCM3YMD_7yND2f7KPwzZ9fobdbMnA&oe=69EFCDCC",
         "https://hips.hearstapps.com/hmg-prod/images/elm100120fobcovernewsoneline-1600291988.jpg?resize=980:*"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774734101157",
+      "createdAt": "2026-03-28T21:41:41.157Z",
+      "magazine": "Dazed",
+      "year": 2020,
+      "month": 9,
+      "issueInfo": "115th Edition",
+      "brand": "Dior",
+      "country": "Korea",
+      "imageUrls": [
+        "http://www.dazedkorea.com/data/article/content/8161464.jpg",
+        "http://www.dazedkorea.com/data/article/content/8171639.jpg",
+        "http://www.dazedkorea.com/data/article/content/8180945.jpg"
       ],
       "memo": ""
     }
