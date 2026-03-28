@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T21:03:17.946Z",
+  "lastUpdated": "2026-03-28T21:04:10.121Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -228,6 +228,22 @@
         "https://img.voguehk.com/media/2024/06/01160122/VHK_062-Digital-COVER-Print-2-Large.jpeg",
         "https://img.voguehk.com/media/2024/05/VHK_062-Digital-COVER-Print2-1439x1800.jpg",
         "https://img.voguehk.com/media/2024/06/01160131/VHK_062-Digital-COVERIGv2-2-Large.jpeg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774731850121",
+      "createdAt": "2026-03-28T21:04:10.121Z",
+      "magazine": "W",
+      "year": 2024,
+      "month": 4,
+      "issueInfo": "4월호",
+      "brand": "Cartier",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.wkorea.com//wp_data/w/2024/03/style_65f0208e94afa-1056x1400.jpg",
+        "https://www.wkorea.com//wp_data/w/2024/03/style_65f020a5e8a31-1056x1400.jpg",
+        "https://www.wkorea.com//wp_data/w/2024/03/style_65f020baf3146-1056x1400.jpg"
       ],
       "memo": ""
     }
