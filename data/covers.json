@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T21:10:15.229Z",
+  "lastUpdated": "2026-03-28T21:11:35.260Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -293,6 +293,22 @@
         "https://img.marieclairekorea.com//2023/08/mck_64dc62b117df0-1170x1516.jpeg",
         "https://img.marieclairekorea.com//2023/08/mck_64dc62a366666-1170x1516.jpeg",
         "https://img.marieclairekorea.com//2023/08/mck_64dc6295f1773-1170x1516.jpeg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774732295260",
+      "createdAt": "2026-03-28T21:11:35.260Z",
+      "magazine": "Elle",
+      "year": 2023,
+      "month": 8,
+      "issueInfo": "8월호",
+      "brand": "Dior",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/a5948dfa-ce37-4ed0-89c9-2d9196586602.jpg",
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/963ae63a-d769-445b-848c-bbbc6c69f4ce.jpg",
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/49897a44-ebc1-4511-bcfc-23580cb3dce1.jpg"
       ],
       "memo": ""
     }
