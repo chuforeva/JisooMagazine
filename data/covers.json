@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:28:52.492Z",
+  "lastUpdated": "2026-03-28T22:29:36.157Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -792,6 +792,20 @@
       "country": "Korea",
       "imageUrls": [
         "https://www.elle.co.kr/resources_old/online/org_online_image/el/6c173dee-49e2-4a58-a03d-91ed873d234e.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774736976157",
+      "createdAt": "2026-03-28T22:29:36.157Z",
+      "magazine": "Popteen",
+      "year": 2017,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SS1zDJQsHu__BbFP681KCdNmuH0OTqhCSfJAFT27KsEW03P5A38xhBWBkV7KcRXN5C2hBEAge-8glxLiyNx3lH7EumAWygJSE30FBOjGaAoM0pIilVO-HcEWaO_B9jHTWC1voUtQQEz4UlsfvHbY4Rb5So28LjwIYq2WIu2lxpfaZFRbWaxTBjpm_EtT-IvkBggc4mHhO09tkdZ8YCZeNnPmQKnlIzmvUZrXMM=w1280"
       ],
       "memo": ""
     }
