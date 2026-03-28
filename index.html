@@ -39,7 +39,7 @@
         <i class="bi bi-book-fill me-1"></i> Jisoo Magazine Covers
       </span>
       <div class="d-flex gap-2">
-        <button id="btn-open-add" class="btn btn-sm btn-accent fw-semibold">
+        <button id="btn-open-add" class="btn btn-sm btn-accent fw-semibold d-none">
           <i class="bi bi-plus-lg me-1"></i>커버 추가
         </button>
         <button id="btn-open-settings" class="btn btn-sm btn-outline-light">
@@ -364,31 +364,22 @@
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="modal-settings-label"><i class="bi bi-gear-fill me-1"></i>설정</h5>
+          <h5 class="modal-title" id="modal-settings-label"><i class="bi bi-person-lock me-1"></i>관리자 로그인</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="닫기"></button>
         </div>
         <div class="modal-body">
 
-          <!-- 온보딩 메시지 (첫 실행 시) -->
-          <div id="settings-onboarding" class="alert alert-info d-none">
-            <strong>환영합니다!</strong> GitHub 저장소 정보를 설정하면 저장이 시작됩니다.
+          <!-- 관리자 모드 활성 표시 -->
+          <div id="settings-admin-status" class="alert alert-success d-none mb-3">
+            <i class="bi bi-shield-fill-check me-1"></i><strong>관리자 모드 활성화됨</strong> — 커버 추가/수정/삭제가 가능합니다.
           </div>
 
-          <!-- 보안 안내 -->
-          <div class="alert alert-warning small mb-3">
-            <strong><i class="bi bi-exclamation-triangle-fill me-1"></i>보안 안내</strong><br>
-            토큰은 이 브라우저의 localStorage에만 저장됩니다. GitHub 저장소에는 절대 저장되지 않습니다.<br>
-            <strong>권장 설정:</strong> Fine-grained PAT, 해당 저장소에 <code>Contents: Read and write</code> 권한만 부여
-          </div>
-
-          <div class="mb-3">
-            <label class="form-label fw-semibold">GitHub Username / Org</label>
-            <input id="settings-owner" type="text" class="form-control" placeholder="your-github-username">
-          </div>
-
-          <div class="mb-3">
-            <label class="form-label fw-semibold">Repository Name</label>
-            <input id="settings-repo" type="text" class="form-control" placeholder="jisoo-magazine">
+          <!-- 안내 -->
+          <div class="alert alert-info small mb-3">
+            <strong><i class="bi bi-info-circle-fill me-1"></i>안내</strong><br>
+            GitHub Personal Access Token을 입력하면 커버 추가/수정/삭제가 가능합니다.<br>
+            토큰은 이 브라우저의 localStorage에만 저장되며 외부로 전송되지 않습니다.<br>
+            <strong>권장:</strong> Fine-grained PAT, <code>Contents: Read and write</code> 권한
           </div>
 
           <div class="mb-1">
@@ -405,9 +396,9 @@
           <div id="settings-connection-status" class="small mt-1"></div>
         </div>
         <div class="modal-footer flex-wrap gap-2">
-          <button id="btn-clear-settings" class="btn btn-sm btn-outline-danger me-auto">설정 초기화</button>
+          <button id="btn-clear-settings" class="btn btn-sm btn-outline-danger me-auto d-none">로그아웃</button>
           <button id="btn-test-connection" class="btn btn-sm btn-outline-secondary">연결 테스트</button>
-          <button id="btn-save-settings" class="btn btn-sm btn-primary">저장</button>
+          <button id="btn-save-settings" class="btn btn-sm btn-primary">로그인</button>
         </div>
       </div>
     </div>

@@ -8,6 +8,15 @@ class ApiError extends Error {
 }
 
 function _headers(token) {
+  const h = {
+    'Accept': 'application/vnd.github+json',
+    'X-GitHub-Api-Version': '2022-11-28'
+  };
+  if (token) h['Authorization'] = `Bearer ${token}`;
+  return h;
+}
+
+function _headersWrite(token) {
   return {
     'Authorization': `Bearer ${token}`,
     'Accept': 'application/vnd.github+json',
@@ -61,7 +70,7 @@ const GithubApi = {
 
     const res = await fetch(url, {
       method: 'PUT',
-      headers: _headers(token),
+      headers: _headersWrite(token),
       body: JSON.stringify(body)
     });
 

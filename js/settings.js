@@ -1,28 +1,48 @@
-const STORAGE_KEY = 'jisoo-mag-settings';
+const Settings = (() => {
+  // =============================================
+  // ★ 본인의 GitHub 저장소 정보를 여기에 입력하세요 ★
+  const OWNER = '';  // 예: 'your-github-username'
+  const REPO  = '';  // 예: 'jisoo-magazine'
+  // =============================================
 
-const Settings = {
-  load() {
-    try {
-      return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
-    } catch {
-      return {};
-    }
-  },
+  const KEY = 'jisoo-mag-settings';
 
-  save(obj) {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(obj));
-  },
-
-  get() {
-    return this.load();
-  },
-
-  isConfigured() {
-    const { token, owner, repo } = this.load();
-    return !!(token && token.trim() && owner && owner.trim() && repo && repo.trim());
-  },
-
-  clear() {
-    localStorage.removeItem(STORAGE_KEY);
+  function _load() {
+    try { return JSON.parse(localStorage.getItem(KEY) || '{}'); } catch { return {}; }
   }
-};
+
+  function get() {
+    const s = _load();
+    return {
+      owner: OWNER || s.owner || '',
+      repo:  REPO  || s.repo  || '',
+      token: s.token || ''
+    };
+  }
+
+  function save({ token }) {
+    const s = _load();
+    localStorage.setItem(KEY, JSON.stringify({ ...s, token }));
+  }
+
+  function logout() {
+    const s = _load();
+    delete s.token;
+    localStorage.setItem(KEY, JSON.stringify(s));
+  }
+
+  function clear() {
+    localStorage.removeItem(KEY);
+  }
+
+  function isConfigured() {
+    const { owner, repo } = get();
+    return !!(owner && owner.trim() && repo && repo.trim());
+  }
+
+  function isAdmin() {
+    return !!get().token;
+  }
+
+  return { get, save, logout, clear, isConfigured, isAdmin };
+})();

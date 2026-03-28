@@ -80,10 +80,11 @@ const Gallery = (() => {
           ${cover.brand ? `<p class="card-text text-muted small mb-1"><i class="bi bi-tag me-1"></i>${_escapeHtml(cover.brand)}</p>` : ''}
           ${cover.memo ? `<p class="card-text small text-secondary">${_escapeHtml(_truncate(cover.memo, 80))}</p>` : ''}
         </div>
+        ${Settings.isAdmin() ? `
         <div class="card-footer bg-transparent border-top-0 px-2 pb-2 d-flex gap-1 justify-content-end">
           <button class="btn btn-sm btn-outline-secondary btn-edit" data-id="${_escapeHtml(cover.id)}" title="수정"><i class="bi bi-pencil"></i></button>
           <button class="btn btn-sm btn-outline-danger btn-delete" data-id="${_escapeHtml(cover.id)}" title="삭제"><i class="bi bi-trash"></i></button>
-        </div>
+        </div>` : ''}
       </div>
     `;
     return col;

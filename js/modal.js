@@ -10,10 +10,7 @@ const Modal = (() => {
     _addModalInstance = new bootstrap.Modal(document.getElementById('modal-add'));
     _editModalInstance = new bootstrap.Modal(document.getElementById('modal-edit'));
     _deleteModalInstance = new bootstrap.Modal(document.getElementById('modal-delete'));
-    _settingsModalInstance = new bootstrap.Modal(document.getElementById('modal-settings'), {
-      backdrop: 'static',
-      keyboard: false
-    });
+    _settingsModalInstance = new bootstrap.Modal(document.getElementById('modal-settings'));
 
     document.getElementById('form-add').addEventListener('submit', _handleAddSubmit);
     document.getElementById('btn-confirm-delete').addEventListener('click', _handleDeleteConfirm);
@@ -88,11 +85,11 @@ const Modal = (() => {
 
   function openSettings(firstRun = false) {
     const s = Settings.get();
-    document.getElementById('settings-owner').value = s.owner || '';
-    document.getElementById('settings-repo').value = s.repo || '';
     document.getElementById('settings-token').value = s.token || '';
     document.getElementById('settings-connection-status').textContent = '';
-    document.getElementById('settings-onboarding').classList.toggle('d-none', !firstRun);
+    const isAdmin = Settings.isAdmin();
+    document.getElementById('settings-admin-status').classList.toggle('d-none', !isAdmin);
+    document.getElementById('btn-clear-settings').classList.toggle('d-none', !isAdmin);
     _settingsModalInstance.show();
   }
 
@@ -184,25 +181,28 @@ const Modal = (() => {
 
   function _handleSaveSettings() {
     const token = document.getElementById('settings-token').value.trim();
-    const owner = document.getElementById('settings-owner').value.trim();
-    const repo = document.getElementById('settings-repo').value.trim();
-    if (!token || !owner || !repo) {
-      window.showToast('모든 항목을 입력해주세요.', 'warning');
+    if (!token) {
+      window.showToast('토큰을 입력해주세요.', 'warning');
       return;
     }
-    Settings.save({ token, owner, repo });
+    Settings.save({ token });
     _settingsModalInstance.hide();
-    App.init();
+    App.refresh();
+    window.showToast('관리자 모드로 로그인됐습니다.', 'success');
   }
 
   async function _handleTestConnection() {
     const token = document.getElementById('settings-token').value.trim();
-    const owner = document.getElementById('settings-owner').value.trim();
-    const repo = document.getElementById('settings-repo').value.trim();
+    const { owner, repo } = Settings.get();
     const statusEl = document.getElementById('settings-connection-status');
-    if (!token || !owner || !repo) {
-      statusEl.textContent = '모든 항목을 먼저 입력해주세요.';
+    if (!token) {
+      statusEl.textContent = '토큰을 먼저 입력해주세요.';
       statusEl.className = 'small text-warning mt-1';
+      return;
+    }
+    if (!owner || !repo) {
+      statusEl.textContent = 'settings.js에 owner/repo가 설정되지 않았습니다.';
+      statusEl.className = 'small text-danger mt-1';
       return;
     }
     statusEl.textContent = '연결 확인 중...';
@@ -223,9 +223,10 @@ const Modal = (() => {
   }
 
   function _handleClearSettings() {
-    if (!confirm('설정을 초기화하면 GitHub 토큰이 삭제됩니다. 계속하시겠습니까?')) return;
-    Settings.clear();
-    location.reload();
+    Settings.logout();
+    _settingsModalInstance.hide();
+    App.refresh();
+    window.showToast('로그아웃됐습니다.', 'warning');
   }
 
   // --- 이미지 URL 다중 입력 관리 ---

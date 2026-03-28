@@ -8,7 +8,8 @@ const App = (() => {
 
     if (!Settings.isConfigured()) {
       _showLoading(false);
-      Modal.openSettings(true);
+      _updateAdminUI();
+      window.showToast('settings.js에 GitHub owner/repo를 설정해주세요.', 'warning');
       return;
     }
 
@@ -17,12 +18,7 @@ const App = (() => {
       refresh();
     } catch (err) {
       _showLoading(false);
-      if (err.status === 401 || err.status === 403) {
-        window.showToast(err.message, 'danger');
-        Modal.openSettings(false);
-      } else {
-        window.showToast(err.message || '데이터 로드 실패. 페이지를 새로고침해주세요.', 'danger');
-      }
+      window.showToast(err.message || '데이터 로드 실패. 페이지를 새로고침해주세요.', 'danger');
     }
   }
 
@@ -38,10 +34,25 @@ const App = (() => {
 
   function refresh() {
     _showLoading(false);
+    _updateAdminUI();
     const covers = Data.getAll();
     Filters.populateDropdowns(covers);
     const filtered = Filters.applyFilters(covers, Filters.getActiveFilters());
     Gallery.render(filtered);
+  }
+
+  function _updateAdminUI() {
+    const isAdmin = Settings.isAdmin();
+    document.getElementById('btn-open-add').classList.toggle('d-none', !isAdmin);
+    const btn = document.getElementById('btn-open-settings');
+    btn.classList.remove('btn-outline-light', 'btn-outline-warning');
+    if (isAdmin) {
+      btn.innerHTML = '<i class="bi bi-shield-fill-check me-1"></i>관리자';
+      btn.classList.add('btn-outline-warning');
+    } else {
+      btn.innerHTML = '<i class="bi bi-person-lock me-1"></i>관리자 로그인';
+      btn.classList.add('btn-outline-light');
+    }
   }
 
   function _onFilterChange() {
@@ -154,6 +165,7 @@ const App = (() => {
     Modal.init();
     _wireEvents();
     window.showToast = showToast;
+    _updateAdminUI();
     init();
   }
 
