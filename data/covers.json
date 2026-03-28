@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:09:40.530Z",
+  "lastUpdated": "2026-03-28T22:10:42.500Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -622,6 +622,21 @@
       "country": "China",
       "imageUrls": [
         "https://i.pinimg.com/originals/d2/64/a4/d264a485cb81b2677c94aec8bbcb2b6d.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774735842500",
+      "createdAt": "2026-03-28T22:10:42.500Z",
+      "magazine": "Elle",
+      "year": 2019,
+      "month": 12,
+      "issueInfo": "12월호",
+      "brand": "Burberry",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/3dd34d5e-b2c3-44e8-a759-f6ea89a89ef9.jpg",
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/c85c211e-d02b-4d9a-890a-21c0a7678c6a.jpg"
       ],
       "memo": ""
     }
