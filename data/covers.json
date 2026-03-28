@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:25:42.356Z",
+  "lastUpdated": "2026-03-28T22:27:04.538Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -764,6 +764,20 @@
       "country": "Japan",
       "imageUrls": [
         "https://i.ebayimg.com/images/g/ZnoAAOSwUfBdQoXm/s-l640.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774736824538",
+      "createdAt": "2026-03-28T22:27:04.538Z",
+      "magazine": "Nylon",
+      "year": 2017,
+      "month": 1,
+      "issueInfo": "1월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://www.nylon.jp/uploads/2016/11/cover2.jpg"
       ],
       "memo": ""
     }
