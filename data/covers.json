@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T21:27:58.153Z",
+  "lastUpdated": "2026-03-28T21:33:20.466Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -453,6 +453,22 @@
         "http://www.dazedkorea.com/data/article/content/7881731.jpg",
         "http://www.dazedkorea.com/data/article/content/7861635.jpg",
         "http://www.dazedkorea.com/data/article/content/7852660.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774733600466",
+      "createdAt": "2026-03-28T21:33:20.466Z",
+      "magazine": "Elle",
+      "year": 2021,
+      "month": 6,
+      "issueInfo": "6월호",
+      "brand": "Dior",
+      "country": "Hong Kong",
+      "imageUrls": [
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/653703770_18148182976462594_4746465251393173227_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MjU4NTQ5MzcyMjI4MjU3NDY5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=58rxPhKRrSIQ7kNvwHhg4_1&_nc_oc=AdqM4fAH4qQ6Uy2MpaEF71duB9Pv3eNPyZdV4usn6m6LK3Zrrgkc8HFORvz4adnXSKw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=ez-ZPe4kMxTDVfKmm_ipcA&_nc_ss=7a32e&oh=00_AfzHz2WwyokcPuaHgx_FgKYShmJXMiWFIDZbldK1mvO6WQ&oe=69CE24F2",
+        "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/649435734_18071499077547615_3058351877151842867_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MjU4NTQ5MzcyMjM2NjQ2MjYxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=NqxAX8i2AusQ7kNvwE6viem&_nc_oc=AdoWmosxZvAhskHQLatZ1P7iC3-fhXaSXcRlaukEW1rg39l3ju_kbeP9g-9MnTnR2tQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=ez-ZPe4kMxTDVfKmm_ipcA&_nc_ss=7a32e&oh=00_AfyEvlnoedfx6nrC1oW3W4noVeSyMaSAq8xk9L-mxCwu9Q&oe=69CE2A0B",
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/623426367_18077669918357022_2045129815491187554_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MjU3OTExMDkxNTA3MTc1NjkxMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTc3Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=32WjP_yOlvYQ7kNvwE6O5SP&_nc_oc=Ado3TacOppNROAwlpvoTeMJL-TlEQHQxoqh5WkxTIXIl3eTf9V_uEt2gsemizA_dy9s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=Ll6F-fi0frYUiXyhwZFo0Q&_nc_ss=7a32e&oh=00_AfzsqHjcWmX_fYrfaCUlBbj_sHiX2k3_ohdNDzcJ-7-nPQ&oe=69CE0FCE"
       ],
       "memo": ""
     }
