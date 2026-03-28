@@ -21,9 +21,11 @@ const Gallery = (() => {
   }
 
   function _getImageUrls(cover) {
-    if (cover.imageUrls && cover.imageUrls.length > 0) return cover.imageUrls;
-    if (cover.imageUrl) return [cover.imageUrl]; // 구버전 호환
-    return [];
+    let urls;
+    if (cover.imageUrls && cover.imageUrls.length > 0) urls = cover.imageUrls;
+    else if (cover.imageUrl) urls = [cover.imageUrl]; // 구버전 호환
+    else urls = [];
+    return urls.map(url => url.replace(/^http:\/\//i, 'https://'));
   }
 
   function _buildImageHtml(cover) {
