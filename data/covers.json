@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:16:47.075Z",
+  "lastUpdated": "2026-03-28T22:19:23.177Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -682,6 +682,20 @@
         "https://lh3.googleusercontent.com/sitesv/APaQ0SSy_7QTC6ogXPRYmLJjwfwXbINJNG2ld80a2RpbV7fbqYiTVxO6rlHgA1rW35cRU7iXLsl5nAWJ4ryK9-beOxjWzdpgyBH0g4bsC84aXfEmywYIbXWd17nZRkGOQwnu2FzsAnCZPWE1VsAytzTCW7SSX6k8js4Bk_XD65S3iMTw1VjpF6wK8bM3MDeMgvIujcobk-cmKOWcsEsQLBYdOHaAI77sBsZ5frz-4Kc=w1280"
       ],
       "memo": "with 로제"
+    },
+    {
+      "id": "1774736363177",
+      "createdAt": "2026-03-28T22:19:23.177Z",
+      "magazine": "High Cut",
+      "year": 2018,
+      "month": 6,
+      "issueInfo": "224호",
+      "brand": "",
+      "country": "Korea",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0ST7AzWqW69nPlRVXqRsWZESrOagelJhb7Q0HNR1O09anD2z3a0V-tu8oOXVL7uLVzUucjwfri6tD3Osjj5TP44ZDj5dHFAZSAlw7vxx5PYTxsqUI9KBJPbT77uk9-h8eiw969LnPyHa5V1yoiNpZe0cZvy7YZJhn-hAxVSe56lD-HQ4uoE6PeB9lWl6j_3KyYP57ckfLMrReMfx-7U3y7nWWfP6NUzYJsng=w1280"
+      ],
+      "memo": ""
     }
   ]
 }
