@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:11:58.376Z",
+  "lastUpdated": "2026-03-28T22:15:07.297Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -653,6 +653,20 @@
         "https://img.allurekorea.com/allure/2018/01/style_5a5c8855ed95c.jpg"
       ],
       "memo": "Get it beauty 콜라보"
+    },
+    {
+      "id": "1774736107297",
+      "createdAt": "2026-03-28T22:15:07.297Z",
+      "magazine": "Marie Claire",
+      "year": 2018,
+      "month": 3,
+      "issueInfo": "3월호",
+      "brand": "",
+      "country": "Korea",
+      "imageUrls": [
+        "https://i.pinimg.com/originals/6d/7b/a0/6d7ba07c3acf2c1e1d9c2167514291fd.jpg"
+      ],
+      "memo": ""
     }
   ]
 }
