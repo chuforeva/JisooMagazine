@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T20:36:10.830Z",
+  "lastUpdated": "2026-03-28T20:43:03.802Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -80,6 +80,21 @@
         "https://img.gqkorea.co.kr/gq/2025/10/style_68f1e5d44ca83-1013x1400.png",
         "https://img.gqkorea.co.kr/gq/2025/10/style_68f1e5f3b3204-1013x1400.png",
         "https://img.gqkorea.co.kr/gq/2025/10/style_68f1e612afc99-1013x1400.png"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774730583802",
+      "createdAt": "2026-03-28T20:43:03.802Z",
+      "magazine": "Vogue",
+      "year": 2025,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "Tommy Hilfiger",
+      "country": "Hong Kong",
+      "imageUrls": [
+        "https://blissoo.co.kr/cms/data/news/en/58/68be5c504f092.jpg",
+        "https://blissoo.co.kr/cms/data/news/en/58/68be5c504f0ea.jpg"
       ],
       "memo": ""
     }
