@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T20:34:41.762Z",
+  "lastUpdated": "2026-03-28T20:36:10.830Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -63,6 +63,23 @@
         "https://www.elle.co.kr/resources/online/online_image/2025/11/16/7bd9b60d-47ad-4aa9-a692-6062c3e968f3.jpeg",
         "https://www.elle.co.kr/resources/online/online_image/2025/11/16/c4b64d53-4dbd-488e-b271-357ab518017d.jpeg",
         "https://www.elle.co.kr/resources/online/online_image/2025/11/16/1d0f16ae-6209-4c0a-ad43-60b1634c2fb3.jpeg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774730170830",
+      "createdAt": "2026-03-28T20:36:10.830Z",
+      "magazine": "GQ",
+      "year": 2025,
+      "month": 11,
+      "issueInfo": "11월호",
+      "brand": "Cartier",
+      "country": "Korea",
+      "imageUrls": [
+        "https://img.gqkorea.co.kr/gq/2025/10/style_68f1e5b49f21f-1013x1400.png",
+        "https://img.gqkorea.co.kr/gq/2025/10/style_68f1e5d44ca83-1013x1400.png",
+        "https://img.gqkorea.co.kr/gq/2025/10/style_68f1e5f3b3204-1013x1400.png",
+        "https://img.gqkorea.co.kr/gq/2025/10/style_68f1e612afc99-1013x1400.png"
       ],
       "memo": ""
     }
