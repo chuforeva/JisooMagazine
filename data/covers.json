@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T20:30:20.804Z",
+  "lastUpdated": "2026-03-28T20:33:36.746Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -31,6 +31,22 @@
         "https://billboard-com-br.s3.amazonaws.com/wp-content/uploads/2026/03/06115701/v2-capa-jisoo-2-768x993.jpg"
       ],
       "memo": "월간남친 화보"
+    },
+    {
+      "id": "1774730016746",
+      "createdAt": "2026-03-28T20:33:36.746Z",
+      "magazine": "Esquire",
+      "year": 2026,
+      "month": 3,
+      "issueInfo": "Special Edition",
+      "brand": "Cartier",
+      "country": "Korea",
+      "imageUrls": [
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/641372651_18437166481117246_984296053899084202_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=105&ig_cache_key=Mzg0MTQ1OTEyNTkxODU5Mzg1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMi5zZHIuQzMifQ%3D%3D&_nc_ohc=fOJ_PqwH4OcQ7kNvwHugFaJ&_nc_oc=AdqFaS4JhOEn7YEYXXY8RdZHdqEN1-35Ml1vnQy-old27JR6HoAWbniZAsaqZC93KyA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=c0kxG97fnAIdi7KKNoWklQ&_nc_ss=7a32e&oh=00_AfyoZYzGq1Zwn3hoxd2CDsvDP-weUSIm98zBjZIQwZtLAA&oe=69CE26E9",
+        "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/640781293_18437166643117246_2236382295829001457_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzg0MTQ2MTUzMjQ1OTIxNTM0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMi5zZHIuQzMifQ%3D%3D&_nc_ohc=ZEaGKZeNNyUQ7kNvwGP82-6&_nc_oc=AdqiN3fj_f8NRY89HqAL0qLoEBq2axnsQtOOTmZQA3PqoocO6oqOEmdI8G5_hFkUsYI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=c0kxG97fnAIdi7KKNoWklQ&_nc_ss=7a32e&oh=00_AfxMcgmlVGgbg_IzE6l9g4Imlp-r4jR6xNU9ZHj6aMbDuQ&oe=69CE286A",
+        "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/642113688_18437166703117246_4830477978654879254_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=111&ig_cache_key=Mzg0MTQ2NDEyMTQ0MzY4MTc5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMi5zZHIuQzMifQ%3D%3D&_nc_ohc=Uc4JbRkZu0EQ7kNvwF2AqbJ&_nc_oc=AdrhVVKKVi7UtaUIt8KoZuTc26rtET1rYKd8w754zwRroca6FuDrCGlAQCFj_9ZJtIU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=c0kxG97fnAIdi7KKNoWklQ&_nc_ss=7a32e&oh=00_AfzPPYVabwvsnVBqPtQDe0T7owvLAI27Sysd3bvtD4opSA&oe=69CDFF1C"
+      ],
+      "memo": ""
     }
   ]
 }
