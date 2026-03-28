@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:34:19.756Z",
+  "lastUpdated": "2026-03-28T22:34:46.133Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -848,6 +848,20 @@
       "country": "Japan",
       "imageUrls": [
         "https://lh3.googleusercontent.com/sitesv/APaQ0SQ1j7ruf7dO5kd1JKAHiUy2BcYQfqzbE98zRoJippK4em_ZST5XlhHFfE9l8sCrKKDp00GnfT1xliGVLWgv1wYzwxa_Y6Ric9xwBR41iKCJtSKpLIKkk3yT65FhRLO-x9z4K9Ppol8p12JtvjIrZ97l6Ed7jKjGM1XcYtcNXdpWVWHh-OnO9jxd-pZdPowUM8ApwXwu1FzX54JABnEYHDnuBWcah-Bu2XPcWxw=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737286133",
+      "createdAt": "2026-03-28T22:34:46.133Z",
+      "magazine": "S Cawaii",
+      "year": 2017,
+      "month": 10,
+      "issueInfo": "10월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SSsXoo98CNYbwgfPzq6xgitsM-JoyMn-dS7hj0_yY33dU5K6WPHe9i8_k5qpfZ6s7J5WGlOy7UbtdcrBVihUPBxn1_IZLR1c-Jbda1bGX6jkymKOkko2eUFa7FFZlmOD0xM21R7No7w-XogvoKApmSqteUH1aizJUZnSzAtnGawXWqDpqjg7zqSWV4ExRTPrRy1fhSoX34hdH16rJFYAZAugyTu5mXua_q69JQ=w1280"
       ],
       "memo": ""
     }
