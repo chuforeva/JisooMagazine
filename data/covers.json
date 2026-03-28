@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:35:35.744Z",
+  "lastUpdated": "2026-03-28T22:36:16.071Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -876,6 +876,20 @@
       "country": "Japan",
       "imageUrls": [
         "https://www.moshimoshi-nippon.jp/wp/wp-content/uploads/2017/09/Zipper-AUTUMN_HY1-copy2.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737376071",
+      "createdAt": "2026-03-28T22:36:16.071Z",
+      "magazine": "Numero TOKYO",
+      "year": 2017,
+      "month": 11,
+      "issueInfo": "11월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SQ2SA8ljvCvF-JFIuZKttVq5AGeZN9icyQNfuLun5XDSDFYVNLi1HpWKPRmfc47GOr5GkjJPpX00J_3r9cetRL8ZnsRubRFTK09-oQk-W2lE-bqh6nmfMsiDnsXftHH52Unihs3vtqKdtD5bqLwSN6ITJIQdpDuPMi7qTGHVXOP_FdN2JBPIA=w1280"
       ],
       "memo": ""
     }
