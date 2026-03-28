@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:32:15.318Z",
+  "lastUpdated": "2026-03-28T22:33:17.500Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -820,6 +820,20 @@
       "country": "Japan",
       "imageUrls": [
         "https://lh3.googleusercontent.com/sitesv/APaQ0SQlNMd830Apnp-wFm5znpSQA1Z-egeksW4gfGM7M3sPsupyIBTQgbDDaMqYOaOnO7QCohXaveAmcG5PTp_A8Jzb-mqyrWUrraxMiy2f0ZhUgXYh1wfU20A-3RpnPHvcNQUzNkV5YjbKZEaci82OMEjhzvPiV6tguIJlPqEGMCmEwifQFtXUaHIa03hG2P6bvsEaXX2X9qEHsiz7qD2nzgiPdJOg3MJqfsFcO-A=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737197500",
+      "createdAt": "2026-03-28T22:33:17.500Z",
+      "magazine": "NYLON X SHEL'TTER",
+      "year": 2017,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SQa386uzfMVmK0F0KcZzdJ4OhxA0jpDDJr-PKClFcny2R8wlzr3KzeYp1Kfn1Pi5y7E1wNYXIj9B7MJocWtS00C2V3gvaoRLq3Ugcjrbw1jC_qPhh9YAQu7Xg8FhUjtJaXOV-QJMZaeLtXXyREdcxs4SArmJ4KcFKLD3sdCtnlMmIva800nF1rNZkVB2qFgJIoOBth4lXGnD_XzmYRH38rNOYOkvcaWDG4GkkU=w1280"
       ],
       "memo": ""
     }
