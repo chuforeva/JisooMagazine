@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:23:40.468Z",
+  "lastUpdated": "2026-03-28T22:24:25.370Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -722,6 +722,20 @@
       "country": "Japan",
       "imageUrls": [
         "https://lh3.googleusercontent.com/sitesv/APaQ0SS9e-TQM9QErLMACbQVlG7oJgJCcsMrb4nBgvmtMHdXqMjmQQwUd9HdbrddoAnhB5T7hX46pw-YQnsvJq69RjW4UGQ7efUQiTJf6U1Vw1r0KNVvP-Ep-ApsSuPAfNpHhxpJZ3xoaLQ9rcz00cmDZHcBkNsJW_ZwI3sAMFYPvIS83uDjSQnuCJehBcp8KDW1ou3k_hpZdmlohb-Z4nQOhFQGNUyiYWBlRaaJB28=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774736665370",
+      "createdAt": "2026-03-28T22:24:25.370Z",
+      "magazine": "Grazia",
+      "year": 2018,
+      "month": 10,
+      "issueInfo": "10월호",
+      "brand": "",
+      "country": "China",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0STfYKZbuH6WRfsR7bRQUcqxw5iSEZndrswAFSL0Pf0EtkihU9ToKyW0MmpKwSodgQ9hl4xnzwCCmOslU0kJGQP6nYW9sZCpMFlRNSg_0wIZA-nvtPH2A8GjGJMng9TW0BF-CKw_lEga4rlGzzYStxIko8Fll6R7aCaR0Vw4RgBmUl2c7k2a0YjqFebNbH5zFe4jYElt16o0R8TaRWQEg5fkUCw8rk7yAuzRNpk=w1280"
       ],
       "memo": ""
     }
