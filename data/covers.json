@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T21:13:02.049Z",
+  "lastUpdated": "2026-03-28T21:14:03.412Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -323,6 +323,22 @@
       "country": "France",
       "imageUrls": [
         "https://media.vogue.fr/photos/63f4aabd9d7b6d2f2b76cad7/master/w_1280,c_limit/COVER-1035-FINALE.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774732443412",
+      "createdAt": "2026-03-28T21:14:03.412Z",
+      "magazine": "GQ",
+      "year": 2023,
+      "month": 2,
+      "issueInfo": "2월호",
+      "brand": "Cartier",
+      "country": "Korea",
+      "imageUrls": [
+        "https://img.gqkorea.co.kr/gq/2023/01/style_63c75a7df0267-741x1024.jpg",
+        "https://img.gqkorea.co.kr/gq/2023/01/style_63c75a8084991-741x1024.jpg",
+        "https://img.gqkorea.co.kr/gq/2023/01/style_63c75a830656d-741x1024.jpg"
       ],
       "memo": ""
     }
