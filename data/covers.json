@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:33:17.500Z",
+  "lastUpdated": "2026-03-28T22:34:19.756Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -834,6 +834,20 @@
       "country": "Japan",
       "imageUrls": [
         "https://lh3.googleusercontent.com/sitesv/APaQ0SQa386uzfMVmK0F0KcZzdJ4OhxA0jpDDJr-PKClFcny2R8wlzr3KzeYp1Kfn1Pi5y7E1wNYXIj9B7MJocWtS00C2V3gvaoRLq3Ugcjrbw1jC_qPhh9YAQu7Xg8FhUjtJaXOV-QJMZaeLtXXyREdcxs4SArmJ4KcFKLD3sdCtnlMmIva800nF1rNZkVB2qFgJIoOBth4lXGnD_XzmYRH38rNOYOkvcaWDG4GkkU=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737259756",
+      "createdAt": "2026-03-28T22:34:19.756Z",
+      "magazine": "SHEL'TTER",
+      "year": 2017,
+      "month": 9,
+      "issueInfo": "가을호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SQ1j7ruf7dO5kd1JKAHiUy2BcYQfqzbE98zRoJippK4em_ZST5XlhHFfE9l8sCrKKDp00GnfT1xliGVLWgv1wYzwxa_Y6Ric9xwBR41iKCJtSKpLIKkk3yT65FhRLO-x9z4K9Ppol8p12JtvjIrZ97l6Ed7jKjGM1XcYtcNXdpWVWHh-OnO9jxd-pZdPowUM8ApwXwu1FzX54JABnEYHDnuBWcah-Bu2XPcWxw=w1280"
       ],
       "memo": ""
     }
