@@ -1,8 +1,8 @@
 const Settings = (() => {
   // =============================================
   // ★ 본인의 GitHub 저장소 정보를 여기에 입력하세요 ★
-  const OWNER = '';  // 예: 'your-github-username'
-  const REPO  = '';  // 예: 'jisoo-magazine'
+  const OWNER = 'chuforeva';  // 예: 'your-github-username'
+  const REPO  = 'JisooMagazine';  // 예: 'jisoo-magazine'
   // =============================================
 
   const KEY = 'jisoo-mag-settings';
