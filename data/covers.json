@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T20:56:03.561Z",
+  "lastUpdated": "2026-03-28T20:57:56.464Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -163,6 +163,23 @@
       "imageUrls": [
         "https://www.harpersbazaar.co.kr/resources/online/online_image/2025/03/03/6dc86e3a-2906-4790-bad5-8ee6a6732aef.jpg",
         "https://www.harpersbazaar.co.kr/resources/online/online_image/2025/03/03/2da7207b-380f-4410-8aba-01caa9aea7cf.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774731476464",
+      "createdAt": "2026-03-28T20:57:56.464Z",
+      "magazine": "Billboard",
+      "year": 2025,
+      "month": 3,
+      "issueInfo": "Billboard Artist Edition",
+      "brand": "Cartier",
+      "country": "Korea",
+      "imageUrls": [
+        "https://pbs.twimg.com/media/GkDXgNsaAAE90-0?format=jpg&name=large",
+        "https://pbs.twimg.com/media/GkOyATZaYAAndaM?format=jpg&name=large",
+        "https://pbs.twimg.com/media/GkOyS_6XMAIV7Xz?format=jpg&name=large",
+        "https://pbs.twimg.com/media/GkOyJ6IXIAAO-mE?format=jpg&name=large"
       ],
       "memo": ""
     }
