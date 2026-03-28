@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:07:37.083Z",
+  "lastUpdated": "2026-03-28T22:09:40.530Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -608,6 +608,20 @@
       "country": "Korea",
       "imageUrls": [
         "https://www.harpersbazaar.co.kr//resources/web/magazine/2024/01/09/0109164735469-14054816ff204981a41394ba5d10e665.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774735780529",
+      "createdAt": "2026-03-28T22:09:40.529Z",
+      "magazine": "Jalouse",
+      "year": 2019,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "",
+      "country": "China",
+      "imageUrls": [
+        "https://i.pinimg.com/originals/d2/64/a4/d264a485cb81b2677c94aec8bbcb2b6d.jpg"
       ],
       "memo": ""
     }
