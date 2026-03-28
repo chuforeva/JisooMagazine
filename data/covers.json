@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:38:20.299Z",
+  "lastUpdated": "2026-03-28T23:13:10.420Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -257,10 +257,10 @@
       "brand": "Dior Beauty",
       "country": "Korea",
       "imageUrls": [
-        "http://www.dazedkorea.com/data/article/content/6930378.jpg",
-        "http://www.dazedkorea.com/data/article/content/6974410.jpg",
-        "http://www.dazedkorea.com/data/article/content/6998368.jpg",
-        "http://www.dazedkorea.com/data/article/content/7014896.jpg"
+        "https://pbs.twimg.com/media/GEB7g0La4AA4YLd?format=jpg&name=large",
+        "https://pbs.twimg.com/media/GEB5cfYbMAARA0x?format=jpg&name=large",
+        "https://pbs.twimg.com/media/GEB8v63bIAA_1ai?format=jpg&name=large",
+        "https://pbs.twimg.com/media/GEB8y_jagAAQN-p?format=jpg&name=large"
       ],
       "memo": ""
     },
