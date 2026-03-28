@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T21:53:17.983Z",
+  "lastUpdated": "2026-03-28T22:05:20.352Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -579,6 +579,21 @@
       "imageUrls": [
         "https://www.harpersbazaar.co.kr/resources_old/online/org_online_image/753d9900-6af2-44d1-b264-f49c7d6374fe.jpg",
         "https://www.harpersbazaar.co.kr/resources_old/online/org_online_image/3aff2035-8124-4648-a302-ca8ec69b3ca1.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774735520352",
+      "createdAt": "2026-03-28T22:05:20.352Z",
+      "magazine": "Billboard",
+      "year": 2019,
+      "month": 3,
+      "issueInfo": "3월호",
+      "brand": "",
+      "country": "US",
+      "imageUrls": [
+        "https://www.billboard.com/wp-content/uploads/media/82jsxju-blackpink-hn2bx-cover-bb5-8xjw2nx-jisoo-2019-billboard-2nsx-1500.jpg?w=1024",
+        "https://www.billboard.com/wp-content/uploads/media/jxdw8h-blackpink-mjxisj3-cover-bb5-2019-billboard-1500.jpg?w=1024"
       ],
       "memo": ""
     }
