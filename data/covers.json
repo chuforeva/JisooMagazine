@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T21:14:52.333Z",
+  "lastUpdated": "2026-03-28T21:16:49.998Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -356,6 +356,24 @@
         "https://img.marieclairekorea.com/2022/12/mck_639ae35e2495d.jpg",
         "https://img.marieclairekorea.com/2022/12/mck_639ae3660bc94.jpg",
         "https://img.marieclairekorea.com/2022/12/mck_639ae34e9aab3.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774732609998",
+      "createdAt": "2026-03-28T21:16:49.998Z",
+      "magazine": "Marie Claire",
+      "year": 2022,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "Dior Beauty",
+      "country": "Korea",
+      "imageUrls": [
+        "https://img.marieclairekorea.com/2022/08/mck_62fb1f9332cd8-1170x1516.jpg",
+        "https://img.marieclairekorea.com/2022/08/mck_62fb20d236432-1170x1516.jpg",
+        "https://img.marieclairekorea.com/2022/08/mck_62fb20c2144ba-1170x1516.jpg",
+        "https://img.marieclairekorea.com/2022/08/mck_62fb206ee1a05-1170x1516.jpg",
+        "https://img.marieclairekorea.com/2022/08/mck_62fb205e850c3-1170x1516.jpg"
       ],
       "memo": ""
     }
