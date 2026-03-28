@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:37:43.700Z",
+  "lastUpdated": "2026-03-28T22:38:20.299Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -918,6 +918,20 @@
       "country": "Japan",
       "imageUrls": [
         "https://lh3.googleusercontent.com/sitesv/APaQ0SSPzAZlxgYBy1yfIJLRwx_O_2E2lceVfvSPbtVjDeuGkzslCxEOnYWX9STD2nKX2FKUmPxbh3ZU4NioSiE85vxxcvC64YHEqUXoS8PZ65bqE_uiv349MgQLpMGPZ3IdRba1oPKkSnxZZAUUGecadxh-cvN-29BjPOQvZ7wcQJn3iy_5otGfDqb7IEDZDNaDNrVHtGYb5Z0bscVrOAtL--kOisN6SMfU7pJPzVw=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737500299",
+      "createdAt": "2026-03-28T22:38:20.299Z",
+      "magazine": "Nylon",
+      "year": 2016,
+      "month": 11,
+      "issueInfo": "11월호",
+      "brand": "",
+      "country": "Korea",
+      "imageUrls": [
+        "https://pbs.twimg.com/media/CvOXvDHUsAAvATt.jpg"
       ],
       "memo": ""
     }
