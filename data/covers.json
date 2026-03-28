@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:05:20.352Z",
+  "lastUpdated": "2026-03-28T22:07:37.083Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -594,6 +594,20 @@
       "imageUrls": [
         "https://www.billboard.com/wp-content/uploads/media/82jsxju-blackpink-hn2bx-cover-bb5-8xjw2nx-jisoo-2019-billboard-2nsx-1500.jpg?w=1024",
         "https://www.billboard.com/wp-content/uploads/media/jxdw8h-blackpink-mjxisj3-cover-bb5-2019-billboard-1500.jpg?w=1024"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774735657083",
+      "createdAt": "2026-03-28T22:07:37.083Z",
+      "magazine": "Harper's Bazaar",
+      "year": 2019,
+      "month": 6,
+      "issueInfo": "6월호",
+      "brand": "",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.harpersbazaar.co.kr//resources/web/magazine/2024/01/09/0109164735469-14054816ff204981a41394ba5d10e665.jpg"
       ],
       "memo": ""
     }
