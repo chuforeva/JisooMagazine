@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:37:15.200Z",
+  "lastUpdated": "2026-03-28T22:37:43.700Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -904,6 +904,20 @@
       "country": "Japan",
       "imageUrls": [
         "https://lh3.googleusercontent.com/sitesv/APaQ0SSe9cs6FI4myntGwuVMk7tVLmj97eK9zkOuC5JgAtJJ26jLQLlIOBYYEF4SerMcxkEwWWlgovrPeWItGA1v2dJbprgUwHg8HmgS05HJgzXbVTIJTe_V01K1iunQQ8lcGxCchEuo6ea9n1O_ios5ACwEZhp6ifZseOMYVEgLRRFWw2U0-g_gq5hojc9gguSuICwmxzwsjY6VwVuP-v2zvy4u0CExI3EXSTRMH2U=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737463700",
+      "createdAt": "2026-03-28T22:37:43.700Z",
+      "magazine": "GQ",
+      "year": 2017,
+      "month": 12,
+      "issueInfo": "12월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SSPzAZlxgYBy1yfIJLRwx_O_2E2lceVfvSPbtVjDeuGkzslCxEOnYWX9STD2nKX2FKUmPxbh3ZU4NioSiE85vxxcvC64YHEqUXoS8PZ65bqE_uiv349MgQLpMGPZ3IdRba1oPKkSnxZZAUUGecadxh-cvN-29BjPOQvZ7wcQJn3iy_5otGfDqb7IEDZDNaDNrVHtGYb5Z0bscVrOAtL--kOisN6SMfU7pJPzVw=w1280"
       ],
       "memo": ""
     }
