@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:25:12.669Z",
+  "lastUpdated": "2026-03-28T22:25:42.356Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -750,6 +750,20 @@
       "country": "Japan",
       "imageUrls": [
         "https://lh3.googleusercontent.com/sitesv/APaQ0SRjS1SfR192M5jMBk8tNiCuRIW-3SxfKxi9DGOyu3MYMobZLCoVJWLEpn-cWYP_4RmJVAi8ii_9uE6fsid9BoaJk2vk7MGDFx5ArsImrTqrdGZhkM1H3wf_k6QN4GcKt61MeXp6aR1dOmstSu7M6R9_F_1DOj7DsLRlUiHr8JNgImZXrzwDyIdObgItbzYf84aSIQ2YyhE4qGA69L0akGWPYtmWUWf9V7u-=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774736742356",
+      "createdAt": "2026-03-28T22:25:42.356Z",
+      "magazine": "JJ",
+      "year": 2018,
+      "month": 11,
+      "issueInfo": "11월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://i.ebayimg.com/images/g/ZnoAAOSwUfBdQoXm/s-l640.jpg"
       ],
       "memo": ""
     }
