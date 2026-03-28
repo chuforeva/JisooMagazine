@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T23:14:45.996Z",
+  "lastUpdated": "2026-03-28T23:15:36.228Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -530,9 +530,9 @@
       "brand": "Dior",
       "country": "Korea",
       "imageUrls": [
-        "http://www.dazedkorea.com/data/article/content/8161464.jpg",
-        "http://www.dazedkorea.com/data/article/content/8171639.jpg",
-        "http://www.dazedkorea.com/data/article/content/8180945.jpg"
+        "https://pbs.twimg.com/media/EhCS3CkU4AAPK5S?format=jpg&name=medium",
+        "https://pbs.twimg.com/media/EhCS3-fVgAAAm6m?format=jpg&name=medium",
+        "https://pbs.twimg.com/media/EhCS5XDVkAYTvch?format=jpg&name=medium"
       ],
       "memo": ""
     },
