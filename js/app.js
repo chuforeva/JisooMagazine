@@ -1,5 +1,7 @@
 const App = (() => {
   let _debounceTimer = null;
+  let _lightboxImages = [];
+  let _lightboxIndex = 0;
 
   async function init() {
     _showLoading(true);
@@ -57,6 +59,29 @@ const App = (() => {
     document.getElementById('loading-overlay').classList.toggle('d-none', !show);
   }
 
+  function _openLightbox(imgs, startIndex) {
+    _lightboxImages = imgs;
+    _lightboxIndex = startIndex;
+    _updateLightboxImage();
+    document.getElementById('lightbox').classList.remove('d-none');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function _updateLightboxImage() {
+    document.getElementById('lightbox-img').src = _lightboxImages[_lightboxIndex];
+    const hasManyImgs = _lightboxImages.length > 1;
+    document.getElementById('lightbox-prev').classList.toggle('d-none', !hasManyImgs);
+    document.getElementById('lightbox-next').classList.toggle('d-none', !hasManyImgs);
+  }
+
+  function _closeLightbox() {
+    document.getElementById('lightbox').classList.add('d-none');
+    document.getElementById('lightbox-img').src = '';
+    document.body.style.overflow = '';
+    _lightboxImages = [];
+    _lightboxIndex = 0;
+  }
+
   function _wireEvents() {
     document.getElementById('btn-open-add').addEventListener('click', () => Modal.openAdd());
     document.getElementById('btn-open-settings').addEventListener('click', () => Modal.openSettings(false));
@@ -69,6 +94,8 @@ const App = (() => {
     document.getElementById('filter-magazine').addEventListener('change', _onFilterChange);
     document.getElementById('filter-year').addEventListener('change', _onFilterChange);
     document.getElementById('filter-brand').addEventListener('change', _onFilterChange);
+    document.getElementById('filter-country').addEventListener('change', _onFilterChange);
+    document.getElementById('sort-order').addEventListener('change', _onFilterChange);
 
     // token 표시/숨기기
     document.getElementById('btn-toggle-token').addEventListener('click', () => {
@@ -80,6 +107,44 @@ const App = (() => {
       } else {
         input.type = 'password';
         btn.textContent = '보기';
+      }
+    });
+
+    // Lightbox
+    document.getElementById('gallery-container').addEventListener('click', (e) => {
+      const img = e.target.closest('.cover-img');
+      if (!img || img.src.startsWith('data:')) return;
+      const card = img.closest('.cover-card');
+      const allImgs = [...card.querySelectorAll('.cover-img')]
+        .map(i => i.src)
+        .filter(src => src && !src.startsWith('data:'));
+      const startIndex = Math.max(0, allImgs.indexOf(img.src));
+      _openLightbox(allImgs, startIndex);
+    });
+    document.getElementById('lightbox-close').addEventListener('click', _closeLightbox);
+    document.getElementById('lightbox-prev').addEventListener('click', (e) => {
+      e.stopPropagation();
+      _lightboxIndex = (_lightboxIndex - 1 + _lightboxImages.length) % _lightboxImages.length;
+      _updateLightboxImage();
+    });
+    document.getElementById('lightbox-next').addEventListener('click', (e) => {
+      e.stopPropagation();
+      _lightboxIndex = (_lightboxIndex + 1) % _lightboxImages.length;
+      _updateLightboxImage();
+    });
+    document.getElementById('lightbox').addEventListener('click', (e) => {
+      if (e.target.id === 'lightbox') _closeLightbox();
+    });
+    document.addEventListener('keydown', (e) => {
+      if (document.getElementById('lightbox').classList.contains('d-none')) return;
+      if (e.key === 'Escape') _closeLightbox();
+      if (e.key === 'ArrowLeft') {
+        _lightboxIndex = (_lightboxIndex - 1 + _lightboxImages.length) % _lightboxImages.length;
+        _updateLightboxImage();
+      }
+      if (e.key === 'ArrowRight') {
+        _lightboxIndex = (_lightboxIndex + 1) % _lightboxImages.length;
+        _updateLightboxImage();
       }
     });
   }

@@ -9,7 +9,13 @@ const Data = (() => {
     try {
       const { content, sha } = await GithubApi.getFile(owner, repo, DATA_FILE_PATH, token);
       const parsed = JSON.parse(content);
-      _covers = parsed.covers || [];
+      // 구버전 imageUrl(string) → imageUrls(array) 마이그레이션
+      _covers = (parsed.covers || []).map(c => {
+        if (!c.imageUrls) {
+          return { ...c, imageUrls: c.imageUrl ? [c.imageUrl] : [] };
+        }
+        return c;
+      });
       _fileSha = sha;
       return _covers;
     } catch (err) {
@@ -31,12 +37,32 @@ const Data = (() => {
       month: parseInt(coverData.month, 10),
       issueInfo: coverData.issueInfo || '',
       brand: coverData.brand || '',
-      imageUrl: coverData.imageUrl || '',
+      country: coverData.country || '',
+      imageUrls: Array.isArray(coverData.imageUrls) ? coverData.imageUrls.filter(Boolean) : [],
       memo: coverData.memo || ''
     };
     _covers.push(newCover);
     await _persist(`Add cover: ${newCover.magazine} ${newCover.year}.${String(newCover.month).padStart(2, '0')}`);
     return newCover;
+  }
+
+  async function updateCover(id, coverData) {
+    const idx = _covers.findIndex(c => c.id === id);
+    if (idx === -1) throw new Error('커버를 찾을 수 없습니다.');
+    _covers[idx] = {
+      ..._covers[idx],
+      magazine: coverData.magazine || '',
+      year: parseInt(coverData.year, 10),
+      month: parseInt(coverData.month, 10),
+      issueInfo: coverData.issueInfo || '',
+      brand: coverData.brand || '',
+      country: coverData.country || '',
+      imageUrls: Array.isArray(coverData.imageUrls) ? coverData.imageUrls.filter(Boolean) : [],
+      memo: coverData.memo || ''
+    };
+    const c = _covers[idx];
+    await _persist(`Update cover: ${c.magazine} ${c.year}.${String(c.month).padStart(2, '0')}`);
+    return _covers[idx];
   }
 
   async function deleteCover(id) {
@@ -66,5 +92,5 @@ const Data = (() => {
     _fileSha = result.sha;
   }
 
-  return { loadAll, addCover, deleteCover, getAll, getById };
+  return { loadAll, addCover, updateCover, deleteCover, getAll, getById };
 })();
