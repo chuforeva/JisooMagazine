@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T21:16:49.998Z",
+  "lastUpdated": "2026-03-28T21:20:57.133Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -376,6 +376,20 @@
         "https://img.marieclairekorea.com/2022/08/mck_62fb205e850c3-1170x1516.jpg"
       ],
       "memo": ""
+    },
+    {
+      "id": "1774732857133",
+      "createdAt": "2026-03-28T21:20:57.133Z",
+      "magazine": "TIME",
+      "year": 2022,
+      "month": 12,
+      "issueInfo": "Dec. 26. 2022",
+      "brand": "",
+      "country": "US",
+      "imageUrls": [
+        "https://api.time.com/wp-content/uploads/2022/12/TIM221226_POY-Begonia-Cover.jpg?quality=85&w=1800"
+      ],
+      "memo": "Entertainer of the Year"
     }
   ]
 }
