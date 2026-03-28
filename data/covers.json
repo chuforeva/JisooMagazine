@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T20:57:56.464Z",
+  "lastUpdated": "2026-03-28T21:00:06.062Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -180,6 +180,22 @@
         "https://pbs.twimg.com/media/GkOyATZaYAAndaM?format=jpg&name=large",
         "https://pbs.twimg.com/media/GkOyS_6XMAIV7Xz?format=jpg&name=large",
         "https://pbs.twimg.com/media/GkOyJ6IXIAAO-mE?format=jpg&name=large"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774731606062",
+      "createdAt": "2026-03-28T21:00:06.062Z",
+      "magazine": "Elle",
+      "year": 2024,
+      "month": 12,
+      "issueInfo": "12월호",
+      "brand": "Dior",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.elle.co.kr/resources/online/online_image/2024/11/15/16cc4629-6c3b-4e7d-b07a-9e144e77ab99.jpg",
+        "https://www.elle.co.kr/resources/online/online_image/2024/11/15/5988a1e3-45df-4057-807c-cf4d86e3c5ed.jpg",
+        "https://www.elle.co.kr/resources/online/online_image/2024/11/15/670117ce-8d3a-4ad9-8bca-f63ce3255766.jpeg"
       ],
       "memo": ""
     }
