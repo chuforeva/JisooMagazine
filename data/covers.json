@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T21:25:21.616Z",
+  "lastUpdated": "2026-03-28T21:26:16.913Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -418,6 +418,22 @@
       "imageUrls": [
         "https://hips.hearstapps.com/hmg-prod/images/hb2205-regular-1646963697.jpg?resize=980:*",
         "https://hips.hearstapps.com/hmg-prod/images/hb2205-teiki-1-1646963841.jpg?resize=980:*"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774733176913",
+      "createdAt": "2026-03-28T21:26:16.913Z",
+      "magazine": "Vogue",
+      "year": 2022,
+      "month": 4,
+      "issueInfo": "4월호",
+      "brand": "Dior",
+      "country": "Korea",
+      "imageUrls": [
+        "https://img.vogue.co.kr/vogue/2022/03/style_622e98d51209d-741x930.jpg",
+        "https://img.vogue.co.kr/vogue/2022/03/style_622e98da6543d-741x930.jpg",
+        "https://img.vogue.co.kr/vogue/2022/03/style_622e98e06bd0a-741x930.jpg"
       ],
       "memo": ""
     }
