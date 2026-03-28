@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:24:25.370Z",
+  "lastUpdated": "2026-03-28T22:25:12.669Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -736,6 +736,20 @@
       "country": "China",
       "imageUrls": [
         "https://lh3.googleusercontent.com/sitesv/APaQ0STfYKZbuH6WRfsR7bRQUcqxw5iSEZndrswAFSL0Pf0EtkihU9ToKyW0MmpKwSodgQ9hl4xnzwCCmOslU0kJGQP6nYW9sZCpMFlRNSg_0wIZA-nvtPH2A8GjGJMng9TW0BF-CKw_lEga4rlGzzYStxIko8Fll6R7aCaR0Vw4RgBmUl2c7k2a0YjqFebNbH5zFe4jYElt16o0R8TaRWQEg5fkUCw8rk7yAuzRNpk=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774736712669",
+      "createdAt": "2026-03-28T22:25:12.669Z",
+      "magazine": "Glitter",
+      "year": 2018,
+      "month": 10,
+      "issueInfo": "10월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SRjS1SfR192M5jMBk8tNiCuRIW-3SxfKxi9DGOyu3MYMobZLCoVJWLEpn-cWYP_4RmJVAi8ii_9uE6fsid9BoaJk2vk7MGDFx5ArsImrTqrdGZhkM1H3wf_k6QN4GcKt61MeXp6aR1dOmstSu7M6R9_F_1DOj7DsLRlUiHr8JNgImZXrzwDyIdObgItbzYf84aSIQ2YyhE4qGA69L0akGWPYtmWUWf9V7u-=w1280"
       ],
       "memo": ""
     }
