@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T21:14:03.412Z",
+  "lastUpdated": "2026-03-28T21:14:52.333Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -339,6 +339,23 @@
         "https://img.gqkorea.co.kr/gq/2023/01/style_63c75a7df0267-741x1024.jpg",
         "https://img.gqkorea.co.kr/gq/2023/01/style_63c75a8084991-741x1024.jpg",
         "https://img.gqkorea.co.kr/gq/2023/01/style_63c75a830656d-741x1024.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774732492333",
+      "createdAt": "2026-03-28T21:14:52.333Z",
+      "magazine": "Marie Claire",
+      "year": 2023,
+      "month": 1,
+      "issueInfo": "",
+      "brand": "Dior Beauty",
+      "country": "Korea",
+      "imageUrls": [
+        "https://img.marieclairekorea.com/2022/12/mck_639ae356bc631.jpg",
+        "https://img.marieclairekorea.com/2022/12/mck_639ae35e2495d.jpg",
+        "https://img.marieclairekorea.com/2022/12/mck_639ae3660bc94.jpg",
+        "https://img.marieclairekorea.com/2022/12/mck_639ae34e9aab3.jpg"
       ],
       "memo": ""
     }
