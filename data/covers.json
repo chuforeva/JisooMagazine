@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T21:26:16.913Z",
+  "lastUpdated": "2026-03-28T21:27:58.153Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -434,6 +434,25 @@
         "https://img.vogue.co.kr/vogue/2022/03/style_622e98d51209d-741x930.jpg",
         "https://img.vogue.co.kr/vogue/2022/03/style_622e98da6543d-741x930.jpg",
         "https://img.vogue.co.kr/vogue/2022/03/style_622e98e06bd0a-741x930.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774733278153",
+      "createdAt": "2026-03-28T21:27:58.153Z",
+      "magazine": "Dazed",
+      "year": 2022,
+      "month": 1,
+      "issueInfo": "1월호",
+      "brand": "Dior Beauty",
+      "country": "Korea",
+      "imageUrls": [
+        "http://www.dazedkorea.com/data/article/content/7835939.jpg",
+        "http://www.dazedkorea.com/data/article/content/7910435.jpg",
+        "http://www.dazedkorea.com/data/article/content/7891180.jpg",
+        "http://www.dazedkorea.com/data/article/content/7881731.jpg",
+        "http://www.dazedkorea.com/data/article/content/7861635.jpg",
+        "http://www.dazedkorea.com/data/article/content/7852660.jpg"
       ],
       "memo": ""
     }
