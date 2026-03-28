@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:34:46.133Z",
+  "lastUpdated": "2026-03-28T22:35:29.355Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -862,6 +862,20 @@
       "country": "Japan",
       "imageUrls": [
         "https://lh3.googleusercontent.com/sitesv/APaQ0SSsXoo98CNYbwgfPzq6xgitsM-JoyMn-dS7hj0_yY33dU5K6WPHe9i8_k5qpfZ6s7J5WGlOy7UbtdcrBVihUPBxn1_IZLR1c-Jbda1bGX6jkymKOkko2eUFa7FFZlmOD0xM21R7No7w-XogvoKApmSqteUH1aizJUZnSzAtnGawXWqDpqjg7zqSWV4ExRTPrRy1fhSoX34hdH16rJFYAZAugyTu5mXua_q69JQ=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737329355",
+      "createdAt": "2026-03-28T22:35:29.355Z",
+      "magazine": "Zipper",
+      "year": 2017,
+      "month": 10,
+      "issueInfo": "가을",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://www.moshimoshi-nippon.jp/wp/wp-content/uploads/2017/09/Zipper-AUTUMN_HY1-copy2.jpg"
       ],
       "memo": ""
     }
