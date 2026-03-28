@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:29:36.157Z",
+  "lastUpdated": "2026-03-28T22:32:15.318Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -806,6 +806,20 @@
       "country": "Japan",
       "imageUrls": [
         "https://lh3.googleusercontent.com/sitesv/APaQ0SS1zDJQsHu__BbFP681KCdNmuH0OTqhCSfJAFT27KsEW03P5A38xhBWBkV7KcRXN5C2hBEAge-8glxLiyNx3lH7EumAWygJSE30FBOjGaAoM0pIilVO-HcEWaO_B9jHTWC1voUtQQEz4UlsfvHbY4Rb5So28LjwIYq2WIu2lxpfaZFRbWaxTBjpm_EtT-IvkBggc4mHhO09tkdZ8YCZeNnPmQKnlIzmvUZrXMM=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737135318",
+      "createdAt": "2026-03-28T22:32:15.318Z",
+      "magazine": "Nylon",
+      "year": 2017,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SQlNMd830Apnp-wFm5znpSQA1Z-egeksW4gfGM7M3sPsupyIBTQgbDDaMqYOaOnO7QCohXaveAmcG5PTp_A8Jzb-mqyrWUrraxMiy2f0ZhUgXYh1wfU20A-3RpnPHvcNQUzNkV5YjbKZEaci82OMEjhzvPiV6tguIJlPqEGMCmEwifQFtXUaHIa03hG2P6bvsEaXX2X9qEHsiz7qD2nzgiPdJOg3MJqfsFcO-A=w1280"
       ],
       "memo": ""
     }
