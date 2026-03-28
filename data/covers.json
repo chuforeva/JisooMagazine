@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T22:27:04.538Z",
+  "lastUpdated": "2026-03-28T22:28:52.492Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -778,6 +778,20 @@
       "country": "Japan",
       "imageUrls": [
         "https://www.nylon.jp/uploads/2016/11/cover2.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774736932492",
+      "createdAt": "2026-03-28T22:28:52.492Z",
+      "magazine": "Elle",
+      "year": 2017,
+      "month": 8,
+      "issueInfo": "8월호",
+      "brand": "Saint Laurent",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/6c173dee-49e2-4a58-a03d-91ed873d234e.jpg"
       ],
       "memo": ""
     }
