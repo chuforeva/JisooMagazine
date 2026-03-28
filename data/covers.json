@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T21:34:51.897Z",
+  "lastUpdated": "2026-03-28T21:35:57.153Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -485,6 +485,23 @@
         "https://www.wkorea.com//wp_data/w/2021/01/style_60006e68e4321-528x700.jpg",
         "https://www.wkorea.com//wp_data/w/2021/01/style_60006e70a1e22-528x700.jpg",
         "https://www.wkorea.com//wp_data/w/2021/01/style_60006e768e325-528x700.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774733757152",
+      "createdAt": "2026-03-28T21:35:57.153Z",
+      "magazine": "Elle",
+      "year": 2021,
+      "month": 1,
+      "issueInfo": "1월호",
+      "brand": "Cartier",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/b8987dc8-08c3-4adc-a8d3-9d724fb5948e.jpg",
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/dd6bd7d7-f9ae-496d-940c-ea13c546ffcc.jpg",
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/fc2ca8c7-3ff3-46c8-a217-3459d2d82a1d.jpg",
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/6d927f77-c278-4783-9daf-b769c71a3104.jpg"
       ],
       "memo": ""
     }
