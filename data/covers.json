@@ -1,5 +1,939 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-03-28T00:00:00.000Z",
-  "covers": []
+  "lastUpdated": "2026-03-28T22:38:20.299Z",
+  "covers": [
+    {
+      "id": "1774727166700",
+      "createdAt": "2026-03-28T19:46:06.700Z",
+      "magazine": "Harper's Bazaar",
+      "year": 2026,
+      "month": 4,
+      "issueInfo": "Special Edition",
+      "brand": "Tommy Hilfiger",
+      "country": "Korea",
+      "imageUrls": [
+        "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/656477834_18441509029112300_1224060763797565092_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg2MTk2NDE0NzMxNjEzNjA2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTg4Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=3dVN6Xi6el4Q7kNvwHky9l2&_nc_oc=Adpgd_x9fI27p3LNxFRHBuC92tBz4V_Z013hsJc3kEJ1k6R92Ppm6ZyaX98Y5VIFbzM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=_Vc1DVbXXHUMpVSZyqykSQ&_nc_ss=7a32e&oh=00_Afx6VuvFrBO4UVDsY6w3F_MUd2XmtlT2hxSSJKYzDNowvw&oe=69CE020B",
+        "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/657600224_18441514681112300_4520962710353149797_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=101&ig_cache_key=Mzg2MTk2NDI0NTMyODY0NjY3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTg4Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=oyvyDn1G-44Q7kNvwFMAyck&_nc_oc=Adp0ewgsnrjqr9CjMU-5NteBjhZUg5xsarHWBkpyXt6Y2WMiY3Ru7CP8I2g0AvE8JL8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=OY4eRagopuAc2TAZa3QviQ&_nc_ss=7a32e&oh=00_AfwXC--pLu0MxrDZHLAGWu3W2h-yvujQ_MKKzeg9ZV3Njw&oe=69CE16C7",
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/658934898_18441514690112300_6018669530243447018_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=100&ig_cache_key=Mzg2MTk2NDI5NDI5MjkyNjY0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTg4Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=tPRVBb8n45gQ7kNvwGi57uz&_nc_oc=AdoOo3f7j1fKxahoJB8dn1MgqepAI4ISrdyX1EIeTPUh9eGlNOfdbnVQdyHMU-hrfSU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=OY4eRagopuAc2TAZa3QviQ&_nc_ss=7a32e&oh=00_AfyjZN9gk3upJokGxfVF5aWqkAwEoN2rtYa0guYJqxVenA&oe=69CE1E17"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774728005009",
+      "createdAt": "2026-03-28T20:00:05.009Z",
+      "magazine": "Billboard",
+      "year": 2026,
+      "month": 3,
+      "issueInfo": "Special Edition",
+      "brand": "",
+      "country": "Brasil",
+      "imageUrls": [
+        "https://billboard-com-br.s3.amazonaws.com/wp-content/uploads/2026/03/06115701/v2-capa-jisoo-2-768x993.jpg"
+      ],
+      "memo": "월간남친 화보"
+    },
+    {
+      "id": "1774730016746",
+      "createdAt": "2026-03-28T20:33:36.746Z",
+      "magazine": "Esquire",
+      "year": 2026,
+      "month": 3,
+      "issueInfo": "Special Edition",
+      "brand": "Cartier",
+      "country": "Korea",
+      "imageUrls": [
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/641372651_18437166481117246_984296053899084202_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=105&ig_cache_key=Mzg0MTQ1OTEyNTkxODU5Mzg1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMi5zZHIuQzMifQ%3D%3D&_nc_ohc=fOJ_PqwH4OcQ7kNvwHugFaJ&_nc_oc=AdqFaS4JhOEn7YEYXXY8RdZHdqEN1-35Ml1vnQy-old27JR6HoAWbniZAsaqZC93KyA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=c0kxG97fnAIdi7KKNoWklQ&_nc_ss=7a32e&oh=00_AfyoZYzGq1Zwn3hoxd2CDsvDP-weUSIm98zBjZIQwZtLAA&oe=69CE26E9",
+        "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/640781293_18437166643117246_2236382295829001457_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzg0MTQ2MTUzMjQ1OTIxNTM0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMi5zZHIuQzMifQ%3D%3D&_nc_ohc=ZEaGKZeNNyUQ7kNvwGP82-6&_nc_oc=AdqiN3fj_f8NRY89HqAL0qLoEBq2axnsQtOOTmZQA3PqoocO6oqOEmdI8G5_hFkUsYI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=c0kxG97fnAIdi7KKNoWklQ&_nc_ss=7a32e&oh=00_AfxMcgmlVGgbg_IzE6l9g4Imlp-r4jR6xNU9ZHj6aMbDuQ&oe=69CE286A",
+        "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/642113688_18437166703117246_4830477978654879254_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=111&ig_cache_key=Mzg0MTQ2NDEyMTQ0MzY4MTc5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMi5zZHIuQzMifQ%3D%3D&_nc_ohc=Uc4JbRkZu0EQ7kNvwF2AqbJ&_nc_oc=AdrhVVKKVi7UtaUIt8KoZuTc26rtET1rYKd8w754zwRroca6FuDrCGlAQCFj_9ZJtIU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=c0kxG97fnAIdi7KKNoWklQ&_nc_ss=7a32e&oh=00_AfzPPYVabwvsnVBqPtQDe0T7owvLAI27Sysd3bvtD4opSA&oe=69CDFF1C"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774730081762",
+      "createdAt": "2026-03-28T20:34:41.762Z",
+      "magazine": "Elle",
+      "year": 2025,
+      "month": 12,
+      "issueInfo": "12월호",
+      "brand": "Dior",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.elle.co.kr/resources/online/online_image/2025/11/16/f0b2637a-f4a0-455d-ad1d-65689cd4b7aa.jpeg",
+        "https://www.elle.co.kr/resources/online/online_image/2025/11/16/1173a4c3-7388-4aef-9f14-313bdbb2b6aa.jpeg",
+        "https://www.elle.co.kr/resources/online/online_image/2025/11/16/7bd9b60d-47ad-4aa9-a692-6062c3e968f3.jpeg",
+        "https://www.elle.co.kr/resources/online/online_image/2025/11/16/c4b64d53-4dbd-488e-b271-357ab518017d.jpeg",
+        "https://www.elle.co.kr/resources/online/online_image/2025/11/16/1d0f16ae-6209-4c0a-ad43-60b1634c2fb3.jpeg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774730170830",
+      "createdAt": "2026-03-28T20:36:10.830Z",
+      "magazine": "GQ",
+      "year": 2025,
+      "month": 11,
+      "issueInfo": "11월호",
+      "brand": "Cartier",
+      "country": "Korea",
+      "imageUrls": [
+        "https://img.gqkorea.co.kr/gq/2025/10/style_68f1e5b49f21f-1013x1400.png",
+        "https://img.gqkorea.co.kr/gq/2025/10/style_68f1e5d44ca83-1013x1400.png",
+        "https://img.gqkorea.co.kr/gq/2025/10/style_68f1e5f3b3204-1013x1400.png",
+        "https://img.gqkorea.co.kr/gq/2025/10/style_68f1e612afc99-1013x1400.png"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774730583802",
+      "createdAt": "2026-03-28T20:43:03.802Z",
+      "magazine": "Vogue",
+      "year": 2025,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "Tommy Hilfiger",
+      "country": "Hong Kong",
+      "imageUrls": [
+        "https://blissoo.co.kr/cms/data/news/en/58/68be5c504f092.jpg",
+        "https://blissoo.co.kr/cms/data/news/en/58/68be5c504f0ea.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774730783935",
+      "createdAt": "2026-03-28T20:46:23.935Z",
+      "magazine": "Marie Claire",
+      "year": 2025,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "Dior Beauty",
+      "country": "Korea",
+      "imageUrls": [
+        "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/532750308_18516241852041188_9217135629580551539_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzY5ODE2NDgxNDIxMzA3NzUzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTc2Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=BpQ4VdpM7DwQ7kNvwE80QnS&_nc_oc=Adr-Z5hDcYNhlh920ZeGLS1AQKPc6Cgw7UiTktfPud5BVc0TF-XK4yTZxO0ruI7PNmk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=Ah87eqqB_uMVyffKalr2CQ&_nc_ss=7a32e&oh=00_AfxWNvu7hxkKop-qTkcHSnCrEmegx82yIVegA3Yyy2HvLw&oe=69CDF5BC",
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/532595053_18516243466041188_4658694740260952700_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzY5ODE5NTEyODE0MjU0NjgwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTc1OS5zZHIuQzMifQ%3D%3D&_nc_ohc=r5td-EbNcbAQ7kNvwFE4WWK&_nc_oc=AdoPZ_FZw9m5Vz0Zs1q5K9rAFJSVnr1_hc2RuJAmPrgjiAfc3ZCAHl1QH1twqGVAjvE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=7zdjbBYCQgFnJKxKJmbQYw&_nc_ss=7a32e&oh=00_AfxQ5KQplamoc4xo97tUSwhMlv3CWYkVJw03xOohag-rZQ&oe=69CE1496",
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/530593445_18516429361041188_6403905595345611344_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzY5ODIyNTE4MzY3Nzk0NjkzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTc2Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=6e3FJBkMDl8Q7kNvwF4r7yU&_nc_oc=Adq2_rYahwg5Qsa3bXvUAitV6M27PhkpssIbHumalQUm6D6CzcyRuqAW2cTCVLcQ6cE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=4JrAxnFqlaJBwqw2DNNetA&_nc_ss=7a32e&oh=00_Afw394XcLijLo-emh3V8FjQDSoqBwu58k5YCisgRZtK9Iw&oe=69CE296D",
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/531915149_18516430297041188_8791959919029007072_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzY5ODI1NTYzMDE5Nzg0MDk4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTc2Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=8b01KGS4S4MQ7kNvwHe1RRn&_nc_oc=Adrhgf_dVcW6Fo2yocljj1_-RBRVCrMspGBGyKykmfPdHTUa3Ogt6txQOC2Pth05HBc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=ji5eflWAwlHtR8DVWrv1Og&_nc_ss=7a32e&oh=00_AfzdaZhCwFTolT04n4TFIcFCHZdXUrQMXnQ9c7T6nlci4Q&oe=69CE1412"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774730881410",
+      "createdAt": "2026-03-28T20:48:01.410Z",
+      "magazine": "Elle",
+      "year": 2025,
+      "month": 7,
+      "issueInfo": "7월호",
+      "brand": "Cartier",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.elle.co.kr/resources/online/online_image/2025/06/16/a7393dc0-6d0e-4ba1-982c-29b55d3e19c1.jpg",
+        "https://www.elle.co.kr/resources/online/online_image/2025/06/16/c8c0e8b1-d44a-4404-8acd-a0887c36c506.jpg",
+        "https://www.elle.co.kr/resources/online/online_image/2025/06/16/7ecd2bce-78ec-4dcc-b163-e1247776bfce.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774731303539",
+      "createdAt": "2026-03-28T20:55:03.539Z",
+      "magazine": "Vogue",
+      "year": 2025,
+      "month": 4,
+      "issueInfo": "4월호",
+      "brand": "Dior",
+      "country": "Korea",
+      "imageUrls": [
+        "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.75761-15/484008231_18492226384009713_7527955598218943839_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzU5MDA4MjQ5MTYzMzE3OTQ0OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=QE6nN0X0jswQ7kNvwH5GH56&_nc_oc=Adp137jyrRVzl6oETpUqiaJQBXlfcRA1RTRSbMAj3sI4X7Fo7x5Z0BKSrHU8bBYaBUA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=VVvCTuXuW3xu34Ungb8ibw&_nc_ss=7a32e&oh=00_AfznTSFGLIJHeNs6gSn6NHaqyt5kpFL6kdEDyrQVBYyzAg&oe=69CDFC45",
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.75761-15/484144624_18492226540009713_8155399053108904940_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzU5MDA4Mjc1MDQ4ODkwODQ5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=iNyUezR6ouYQ7kNvwHi_riN&_nc_oc=AdpOZeB7Os9lwyPJOp62VY_MX1Urku0bxEkxeiOgQOAHX-BoZTTH54HskeYf-Pq0t34&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=Zv_1aHooF9-LUjl1Ktf1zg&_nc_ss=7a32e&oh=00_AfysqNOpzXM3g46zZPlKB8ot6eCTNZCMTKZxbf97LL5WrA&oe=69CDFC5C",
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.75761-15/484339385_18492226612009713_2377211950007691594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzU5MDA4MzA0NzAxNzkzNDA3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=oAjEXfY2aMsQ7kNvwGhmSdS&_nc_oc=AdpyYkOTY-j6FpXks5qfAXy_Y88hYnFDesWq6i9xUtoLISF7psL3M3B0d8VXTfdbq_w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=JrWUMOnSNc_vAqElSCuCgA&_nc_ss=7a32e&oh=00_AfxYMfXfQC47pO1wEVo44R6QZVyNSm2W5l6ANKZrt6b3xQ&oe=69CE181F",
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.75761-15/484860956_18492226669009713_8072500791210622724_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzU5MDA4MzMwMDUxMzEzNjIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=cilPiirUR7YQ7kNvwECFZXI&_nc_oc=AdqpypHWxtI-pYQ6OOWIFvxT_JUJTL-b_WXI8e91WEu5SP9D2r6CVIQ19d1s1R4kd-A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=Wg8Iwekj6W-nlrjktT5Iyw&_nc_ss=7a32e&oh=00_AfztxGFChm29mh-0hqkbUNi6TLKDAlOvWpT3D0gpLvbOWA&oe=69CE0E7A",
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.75761-15/484144624_18492226723009713_6970506341560513946_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzU5MDA4MzU0Mjk3NzM4NTkzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=6cUy3gSoaLYQ7kNvwF3MnYn&_nc_oc=AdrCjrMgpyoy5tFhgoYBiiStQJQlcbabafsL6PBN0yJi4OjuD6a7JSOp51HzKsCg2J8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=LLKBjjqdrC9BA1qKzdvfyg&_nc_ss=7a32e&oh=00_Afz2Ho0rMYYyb5IOsaVgEz11FhTTof3cSrxK9UnwaqGVtw&oe=69CE196A",
+        "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.75761-15/484361942_18492226792009713_9149113918124458733_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzU5MDA4MzczNDQyMjQwODg0OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=2fmrsT9WOFQQ7kNvwFv5gaa&_nc_oc=Adr78yhY59n-K4aaQ5JWPWZTbXefxjnzIG-iNIgpczyq_x8jQoz23a-D1crbWqZD3k0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=X6g3UxRlrwM6-dR6qvAkLg&_nc_ss=7a32e&oh=00_AfxjkwCCZOHHgc1H_jcqorXe2TYmBNCPjAIcDSHiytUQbA&oe=69CE2617",
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.75761-15/484980113_18492226825009713_7195430017865841045_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzU5MDA4Mzg3MDA3NDU1MzYxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=T-JYyrXZ17oQ7kNvwHJT0Dl&_nc_oc=AdoxtLeNWXTMjptWKxHyA13wS2xJSMyaAtv3Y0PFSGOMCg3wgW8Rel6tGQ7wF7z--Ew&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=zBLlwXB1OKATW3sdaAhIdA&_nc_ss=7a32e&oh=00_AfwHegmu-rHhhYamPmhVl2ZZF_En4bpMSJo4m13MTbDCKA&oe=69CE13D3"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774731363561",
+      "createdAt": "2026-03-28T20:56:03.561Z",
+      "magazine": "Harper's Bazaar",
+      "year": 2025,
+      "month": 3,
+      "issueInfo": "Spring Edition",
+      "brand": "Tommy Hilfiger",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.harpersbazaar.co.kr/resources/online/online_image/2025/03/03/6dc86e3a-2906-4790-bad5-8ee6a6732aef.jpg",
+        "https://www.harpersbazaar.co.kr/resources/online/online_image/2025/03/03/2da7207b-380f-4410-8aba-01caa9aea7cf.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774731476464",
+      "createdAt": "2026-03-28T20:57:56.464Z",
+      "magazine": "Billboard",
+      "year": 2025,
+      "month": 3,
+      "issueInfo": "Billboard Artist Edition",
+      "brand": "Cartier",
+      "country": "Korea",
+      "imageUrls": [
+        "https://pbs.twimg.com/media/GkDXgNsaAAE90-0?format=jpg&name=large",
+        "https://pbs.twimg.com/media/GkOyATZaYAAndaM?format=jpg&name=large",
+        "https://pbs.twimg.com/media/GkOyS_6XMAIV7Xz?format=jpg&name=large",
+        "https://pbs.twimg.com/media/GkOyJ6IXIAAO-mE?format=jpg&name=large"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774731606062",
+      "createdAt": "2026-03-28T21:00:06.062Z",
+      "magazine": "Elle",
+      "year": 2024,
+      "month": 12,
+      "issueInfo": "12월호",
+      "brand": "Dior",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.elle.co.kr/resources/online/online_image/2024/11/15/16cc4629-6c3b-4e7d-b07a-9e144e77ab99.jpg",
+        "https://www.elle.co.kr/resources/online/online_image/2024/11/15/5988a1e3-45df-4057-807c-cf4d86e3c5ed.jpg",
+        "https://www.elle.co.kr/resources/online/online_image/2024/11/15/670117ce-8d3a-4ad9-8bca-f63ce3255766.jpeg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774731714899",
+      "createdAt": "2026-03-28T21:01:54.899Z",
+      "magazine": "Marie Claire",
+      "year": 2024,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "Dior Beauty",
+      "country": "Korea",
+      "imageUrls": [
+        "https://img.marieclairekorea.com//2024/08/mck_66bcc587b9a6e-838x1024.jpg",
+        "https://img.marieclairekorea.com//2024/08/mck_66bcc59adb232-838x1024.jpg",
+        "https://img.marieclairekorea.com//2024/08/mck_66bcc5a132888-838x1024.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774731797946",
+      "createdAt": "2026-03-28T21:03:17.946Z",
+      "magazine": "Vogue",
+      "year": 2024,
+      "month": 6,
+      "issueInfo": "6월호",
+      "brand": "Cartier",
+      "country": "Hong Kong",
+      "imageUrls": [
+        "https://img.voguehk.com/media/2024/06/01160122/VHK_062-Digital-COVER-Print-2-Large.jpeg",
+        "https://img.voguehk.com/media/2024/05/VHK_062-Digital-COVER-Print2-1439x1800.jpg",
+        "https://img.voguehk.com/media/2024/06/01160131/VHK_062-Digital-COVERIGv2-2-Large.jpeg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774731850121",
+      "createdAt": "2026-03-28T21:04:10.121Z",
+      "magazine": "W",
+      "year": 2024,
+      "month": 4,
+      "issueInfo": "4월호",
+      "brand": "Cartier",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.wkorea.com//wp_data/w/2024/03/style_65f0208e94afa-1056x1400.jpg",
+        "https://www.wkorea.com//wp_data/w/2024/03/style_65f020a5e8a31-1056x1400.jpg",
+        "https://www.wkorea.com//wp_data/w/2024/03/style_65f020baf3146-1056x1400.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774731956019",
+      "createdAt": "2026-03-28T21:05:56.019Z",
+      "magazine": "Dazed",
+      "year": 2024,
+      "month": 2,
+      "issueInfo": "2월호",
+      "brand": "Dior Beauty",
+      "country": "Korea",
+      "imageUrls": [
+        "http://www.dazedkorea.com/data/article/content/6930378.jpg",
+        "http://www.dazedkorea.com/data/article/content/6974410.jpg",
+        "http://www.dazedkorea.com/data/article/content/6998368.jpg",
+        "http://www.dazedkorea.com/data/article/content/7014896.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774732110876",
+      "createdAt": "2026-03-28T21:08:30.876Z",
+      "magazine": "Elle",
+      "year": 2023,
+      "month": 11,
+      "issueInfo": "11월호",
+      "brand": "Cartier",
+      "country": "Singapore",
+      "imageUrls": [
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/623217334_18102369520677133_2695709186482725783_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzIyNjg3OTQ0OTc0NjkwMTIxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTc3NC5zZHIuQzMifQ%3D%3D&_nc_ohc=fxg2PjXuc9AQ7kNvwEU7NdN&_nc_oc=AdqYXbIe98i_wF_b6p1xLx9xy11c3rrme20RrDUbUvjj9u7yH52u3_mHsrsZ03LwhDg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=Iu4yuJBLskdfUU_RXj-K2A&_nc_ss=7a32e&oh=00_Afw1jBAat0X_I4Vm-NBmijsYSRo0WkCm9OYQe8BFIKxMXQ&oe=69CE2EA7",
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/619682193_17946121158067956_7694644823728370161_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzIyNjkwOTY4ODQ3MjczNDI1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTc3NC5zZHIuQzMifQ%3D%3D&_nc_ohc=2JT-QGf1q2UQ7kNvwGrn168&_nc_oc=Adp3V4HSErB9ybrqJQvXFCdHD3Aup2iqXlhnmNFeDs2GN_zsYDFmEb_X_z-4lyBid3g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=Ku658ITIYJGMaWn-LXSTjw&_nc_ss=7a32e&oh=00_AfyWqSlvhqQi6ENWu2W_YHwhZi-onb8chpSmepi_82y96g&oe=69CE19DD",
+        "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/623429318_18088629740281814_2021856781250529986_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzIyNjkwOTkxMjk4NTMwODczMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTc3NC5zZHIuQzMifQ%3D%3D&_nc_ohc=ZZ3D19S1_YMQ7kNvwFLNLwa&_nc_oc=AdoevYpuxg4J86PlDpZFnpQSLTzkJV2vebJJrc0W9q6EcUlx4JjoYHLbxDsVy9eN9Hg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=kf_JpZBymoCRiIEnPeEKcw&_nc_ss=7a32e&oh=00_AfwqkWb4C1CxJaxLNUaQSDiNQaQru1XH2pBgfCb9UIiFoA&oe=69CE0E85"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774732215229",
+      "createdAt": "2026-03-28T21:10:15.229Z",
+      "magazine": "Marie Claire",
+      "year": 2023,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "Dior Beauty",
+      "country": "Korea",
+      "imageUrls": [
+        "https://img.marieclairekorea.com//2023/08/mck_64dc62b117df0-1170x1516.jpeg",
+        "https://img.marieclairekorea.com//2023/08/mck_64dc62a366666-1170x1516.jpeg",
+        "https://img.marieclairekorea.com//2023/08/mck_64dc6295f1773-1170x1516.jpeg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774732295260",
+      "createdAt": "2026-03-28T21:11:35.260Z",
+      "magazine": "Elle",
+      "year": 2023,
+      "month": 8,
+      "issueInfo": "8월호",
+      "brand": "Dior",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/a5948dfa-ce37-4ed0-89c9-2d9196586602.jpg",
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/963ae63a-d769-445b-848c-bbbc6c69f4ce.jpg",
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/49897a44-ebc1-4511-bcfc-23580cb3dce1.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774732368121",
+      "createdAt": "2026-03-28T21:12:48.121Z",
+      "magazine": "Vogue",
+      "year": 2023,
+      "month": 3,
+      "issueInfo": "3월호",
+      "brand": "Dior",
+      "country": "France",
+      "imageUrls": [
+        "https://media.vogue.fr/photos/63f4aabd9d7b6d2f2b76cad7/master/w_1280,c_limit/COVER-1035-FINALE.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774732443412",
+      "createdAt": "2026-03-28T21:14:03.412Z",
+      "magazine": "GQ",
+      "year": 2023,
+      "month": 2,
+      "issueInfo": "2월호",
+      "brand": "Cartier",
+      "country": "Korea",
+      "imageUrls": [
+        "https://img.gqkorea.co.kr/gq/2023/01/style_63c75a7df0267-741x1024.jpg",
+        "https://img.gqkorea.co.kr/gq/2023/01/style_63c75a8084991-741x1024.jpg",
+        "https://img.gqkorea.co.kr/gq/2023/01/style_63c75a830656d-741x1024.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774732492333",
+      "createdAt": "2026-03-28T21:14:52.333Z",
+      "magazine": "Marie Claire",
+      "year": 2023,
+      "month": 1,
+      "issueInfo": "",
+      "brand": "Dior Beauty",
+      "country": "Korea",
+      "imageUrls": [
+        "https://img.marieclairekorea.com/2022/12/mck_639ae356bc631.jpg",
+        "https://img.marieclairekorea.com/2022/12/mck_639ae35e2495d.jpg",
+        "https://img.marieclairekorea.com/2022/12/mck_639ae3660bc94.jpg",
+        "https://img.marieclairekorea.com/2022/12/mck_639ae34e9aab3.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774732609998",
+      "createdAt": "2026-03-28T21:16:49.998Z",
+      "magazine": "Marie Claire",
+      "year": 2022,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "Dior Beauty",
+      "country": "Korea",
+      "imageUrls": [
+        "https://img.marieclairekorea.com/2022/08/mck_62fb1f9332cd8-1170x1516.jpg",
+        "https://img.marieclairekorea.com/2022/08/mck_62fb20d236432-1170x1516.jpg",
+        "https://img.marieclairekorea.com/2022/08/mck_62fb20c2144ba-1170x1516.jpg",
+        "https://img.marieclairekorea.com/2022/08/mck_62fb206ee1a05-1170x1516.jpg",
+        "https://img.marieclairekorea.com/2022/08/mck_62fb205e850c3-1170x1516.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774732857133",
+      "createdAt": "2026-03-28T21:20:57.133Z",
+      "magazine": "TIME",
+      "year": 2022,
+      "month": 12,
+      "issueInfo": "Dec. 26. 2022",
+      "brand": "",
+      "country": "US",
+      "imageUrls": [
+        "https://api.time.com/wp-content/uploads/2022/12/TIM221226_POY-Begonia-Cover.jpg?quality=85&w=1800"
+      ],
+      "memo": "Entertainer of the Year"
+    },
+    {
+      "id": "1774733050075",
+      "createdAt": "2026-03-28T21:24:10.075Z",
+      "magazine": "RollingStone",
+      "year": 2022,
+      "month": 6,
+      "issueInfo": "6월호",
+      "brand": "",
+      "country": "US",
+      "imageUrls": [
+        "https://pbs.twimg.com/media/FTwzdZOXsAAY89s?format=jpg&name=large",
+        "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/624833240_18143901922417146_8714650436793255202_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mjg0NDQ3MDczNDc5OTEyMTAwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=2utbcYtLFMsQ7kNvwEGXH0-&_nc_oc=AdruPytyQaXS4XMNNwYuYzvSIS1mcyQ3y5lEdpxxBM0MBoiWh_Srpb_hyCPIwvBNTk4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=JxpPuBRTm8vkHovubYW_4A&_nc_ss=7a32e&oh=00_AfytcFuSJ8k2s-9VbmyexuZAvpFjnpM6mOCm-GZG2w0Ozg&oe=69CE27BC"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774733099896",
+      "createdAt": "2026-03-28T21:24:59.896Z",
+      "magazine": "Harper's Bazaar",
+      "year": 2022,
+      "month": 5,
+      "issueInfo": "5월호",
+      "brand": "Dior",
+      "country": "Japan",
+      "imageUrls": [
+        "https://hips.hearstapps.com/hmg-prod/images/hb2205-regular-1646963697.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/hb2205-teiki-1-1646963841.jpg?resize=980:*"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774733176913",
+      "createdAt": "2026-03-28T21:26:16.913Z",
+      "magazine": "Vogue",
+      "year": 2022,
+      "month": 4,
+      "issueInfo": "4월호",
+      "brand": "Dior",
+      "country": "Korea",
+      "imageUrls": [
+        "https://img.vogue.co.kr/vogue/2022/03/style_622e98d51209d-741x930.jpg",
+        "https://img.vogue.co.kr/vogue/2022/03/style_622e98da6543d-741x930.jpg",
+        "https://img.vogue.co.kr/vogue/2022/03/style_622e98e06bd0a-741x930.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774733278153",
+      "createdAt": "2026-03-28T21:27:58.153Z",
+      "magazine": "Dazed",
+      "year": 2022,
+      "month": 1,
+      "issueInfo": "1월호",
+      "brand": "Dior Beauty",
+      "country": "Korea",
+      "imageUrls": [
+        "http://www.dazedkorea.com/data/article/content/7835939.jpg",
+        "http://www.dazedkorea.com/data/article/content/7910435.jpg",
+        "http://www.dazedkorea.com/data/article/content/7891180.jpg",
+        "http://www.dazedkorea.com/data/article/content/7881731.jpg",
+        "http://www.dazedkorea.com/data/article/content/7861635.jpg",
+        "http://www.dazedkorea.com/data/article/content/7852660.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774733600466",
+      "createdAt": "2026-03-28T21:33:20.466Z",
+      "magazine": "Elle",
+      "year": 2021,
+      "month": 6,
+      "issueInfo": "6월호",
+      "brand": "Dior",
+      "country": "Hong Kong",
+      "imageUrls": [
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/653703770_18148182976462594_4746465251393173227_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MjU4NTQ5MzcyMjI4MjU3NDY5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=58rxPhKRrSIQ7kNvwHhg4_1&_nc_oc=AdqM4fAH4qQ6Uy2MpaEF71duB9Pv3eNPyZdV4usn6m6LK3Zrrgkc8HFORvz4adnXSKw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=ez-ZPe4kMxTDVfKmm_ipcA&_nc_ss=7a32e&oh=00_AfzHz2WwyokcPuaHgx_FgKYShmJXMiWFIDZbldK1mvO6WQ&oe=69CE24F2",
+        "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/649435734_18071499077547615_3058351877151842867_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MjU4NTQ5MzcyMjM2NjQ2MjYxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=NqxAX8i2AusQ7kNvwE6viem&_nc_oc=AdoWmosxZvAhskHQLatZ1P7iC3-fhXaSXcRlaukEW1rg39l3ju_kbeP9g-9MnTnR2tQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=ez-ZPe4kMxTDVfKmm_ipcA&_nc_ss=7a32e&oh=00_AfyEvlnoedfx6nrC1oW3W4noVeSyMaSAq8xk9L-mxCwu9Q&oe=69CE2A0B",
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/623426367_18077669918357022_2045129815491187554_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MjU3OTExMDkxNTA3MTc1NjkxMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTc3Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=32WjP_yOlvYQ7kNvwE6O5SP&_nc_oc=Ado3TacOppNROAwlpvoTeMJL-TlEQHQxoqh5WkxTIXIl3eTf9V_uEt2gsemizA_dy9s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=Ll6F-fi0frYUiXyhwZFo0Q&_nc_ss=7a32e&oh=00_AfzsqHjcWmX_fYrfaCUlBbj_sHiX2k3_ohdNDzcJ-7-nPQ&oe=69CE0FCE"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774733691897",
+      "createdAt": "2026-03-28T21:34:51.897Z",
+      "magazine": "W",
+      "year": 2021,
+      "month": 2,
+      "issueInfo": "2월호",
+      "brand": "Dior",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.wkorea.com//wp_data/w/2021/01/style_60006e68e4321-528x700.jpg",
+        "https://www.wkorea.com//wp_data/w/2021/01/style_60006e70a1e22-528x700.jpg",
+        "https://www.wkorea.com//wp_data/w/2021/01/style_60006e768e325-528x700.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774733757152",
+      "createdAt": "2026-03-28T21:35:57.153Z",
+      "magazine": "Elle",
+      "year": 2021,
+      "month": 1,
+      "issueInfo": "1월호",
+      "brand": "Cartier",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/b8987dc8-08c3-4adc-a8d3-9d724fb5948e.jpg",
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/dd6bd7d7-f9ae-496d-940c-ea13c546ffcc.jpg",
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/fc2ca8c7-3ff3-46c8-a217-3459d2d82a1d.jpg",
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/6d927f77-c278-4783-9daf-b769c71a3104.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774733982704",
+      "createdAt": "2026-03-28T21:39:42.704Z",
+      "magazine": "Elle",
+      "year": 2020,
+      "month": 10,
+      "issueInfo": "10월호",
+      "brand": "",
+      "country": "US",
+      "imageUrls": [
+        "https://scontent.fykz1-1.fna.fbcdn.net/v/t1.6435-9/119552215_1245025215878900_8353607849647397971_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=8-9jVcx5syYQ7kNvwETL7WI&_nc_oc=AdpTnNWgode3S37thxUowb_VlNfOlORKEvFV_WPZeaeJKgDC81rHB4q_ZQsh2NXPMS0&_nc_zt=23&_nc_ht=scontent.fykz1-1.fna&_nc_gid=tY090YQffnCKXDpxjwmwSQ&_nc_ss=7a32e&oh=00_AfzVj6A0Dw5qy8I-yBCM3YMD_7yND2f7KPwzZ9fobdbMnA&oe=69EFCDCC",
+        "https://hips.hearstapps.com/hmg-prod/images/elm100120fobcovernewsoneline-1600291988.jpg?resize=980:*"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774734101157",
+      "createdAt": "2026-03-28T21:41:41.157Z",
+      "magazine": "Dazed",
+      "year": 2020,
+      "month": 9,
+      "issueInfo": "115th Edition",
+      "brand": "Dior",
+      "country": "Korea",
+      "imageUrls": [
+        "http://www.dazedkorea.com/data/article/content/8161464.jpg",
+        "http://www.dazedkorea.com/data/article/content/8171639.jpg",
+        "http://www.dazedkorea.com/data/article/content/8180945.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774734256854",
+      "createdAt": "2026-03-28T21:44:16.854Z",
+      "magazine": "Marie Claire",
+      "year": 2020,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "Dior Beauty",
+      "country": "Korea",
+      "imageUrls": [
+        "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/623041628_18109278565711254_7860387179964786955_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MjM3NTIwNzgwNjE4NzI4NTAyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=mvq32N8M8gkQ7kNvwHtOzjI&_nc_oc=Ado9Bt_8s5rCybX4AWLLZwjKzvwsvUKilC_CHzgpnmJOVipJAmZgd5tZQGoO4ELR518&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=1_nnCx5S1AOOSB3nRLu_fQ&_nc_ss=7a32e&oh=00_AfxsATBjBvBOp4st8G8zMfQhx3A0jUJ1JUCYvCOHvK336g&oe=69CE30CE",
+        "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/626331335_18097894996732122_5640490227682877206_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MjM3NTM5MTI5NTM3NzI2OTU3Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=7EgozvMC24EQ7kNvwGSVWPn&_nc_oc=Adrbos8ivoNDBs0Xt09ugjmSR9p6frVUkPWxV0qUCpZfgj7FORkoMEQwkxHp2TZZOUc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=KTR4vvomrNU1VJW7XkIucA&_nc_ss=7a32e&oh=00_AfygDDvLVsjTdJpFnAX3i3nWgtti1KgY4QqcK6D6zY_KzA&oe=69CE1958"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774734738915",
+      "createdAt": "2026-03-28T21:52:18.915Z",
+      "magazine": "Vogue",
+      "year": 2020,
+      "month": 3,
+      "issueInfo": "3월호",
+      "brand": "",
+      "country": "Korea",
+      "imageUrls": [
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/651844296_18206980039326076_3151404921975865714_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MjI0NDk0NzIwNjczODI5OTE1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=z7odSKJW3kQQ7kNvwH5EK9t&_nc_oc=AdpoL6GeQnQQMxRAWSLdBJPuFYH3itMZzBDGTH2335M_bYza5zie6g2A3XY1en-rd2c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=ZOMws9R0KMW8b6jTaxqS7Q&_nc_ss=7a32e&oh=00_AfzPpSQmlCU1eZPE7bTo4Di6jJEEB7NnV5OepXHnV0S3QQ&oe=69CE181D",
+        "https://pbs.twimg.com/media/EQ4f26OWkAIy7nm?format=jpg&name=large",
+        "https://pbs.twimg.com/media/EQ4f26JXUAA6zt1?format=jpg&name=large"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774734797983",
+      "createdAt": "2026-03-28T21:53:17.983Z",
+      "magazine": "Harper's Bazaar",
+      "year": 2020,
+      "month": 1,
+      "issueInfo": "",
+      "brand": "Dior Beauty",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.harpersbazaar.co.kr/resources_old/online/org_online_image/753d9900-6af2-44d1-b264-f49c7d6374fe.jpg",
+        "https://www.harpersbazaar.co.kr/resources_old/online/org_online_image/3aff2035-8124-4648-a302-ca8ec69b3ca1.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774735520352",
+      "createdAt": "2026-03-28T22:05:20.352Z",
+      "magazine": "Billboard",
+      "year": 2019,
+      "month": 3,
+      "issueInfo": "3월호",
+      "brand": "",
+      "country": "US",
+      "imageUrls": [
+        "https://www.billboard.com/wp-content/uploads/media/82jsxju-blackpink-hn2bx-cover-bb5-8xjw2nx-jisoo-2019-billboard-2nsx-1500.jpg?w=1024",
+        "https://www.billboard.com/wp-content/uploads/media/jxdw8h-blackpink-mjxisj3-cover-bb5-2019-billboard-1500.jpg?w=1024"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774735657083",
+      "createdAt": "2026-03-28T22:07:37.083Z",
+      "magazine": "Harper's Bazaar",
+      "year": 2019,
+      "month": 6,
+      "issueInfo": "6월호",
+      "brand": "Cartier",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.harpersbazaar.co.kr//resources/web/magazine/2024/01/09/0109164735469-14054816ff204981a41394ba5d10e665.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774735780529",
+      "createdAt": "2026-03-28T22:09:40.529Z",
+      "magazine": "Jalouse",
+      "year": 2019,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "",
+      "country": "China",
+      "imageUrls": [
+        "https://i.pinimg.com/originals/d2/64/a4/d264a485cb81b2677c94aec8bbcb2b6d.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774735842500",
+      "createdAt": "2026-03-28T22:10:42.500Z",
+      "magazine": "Elle",
+      "year": 2019,
+      "month": 12,
+      "issueInfo": "12월호",
+      "brand": "Burberry",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/3dd34d5e-b2c3-44e8-a759-f6ea89a89ef9.jpg",
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/c85c211e-d02b-4d9a-890a-21c0a7678c6a.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774735918375",
+      "createdAt": "2026-03-28T22:11:58.375Z",
+      "magazine": "Allure",
+      "year": 2018,
+      "month": 2,
+      "issueInfo": "2월호",
+      "brand": "",
+      "country": "Korea",
+      "imageUrls": [
+        "https://img.allurekorea.com/allure/2018/01/style_5a5c8855ed95c.jpg"
+      ],
+      "memo": "Get it beauty 콜라보"
+    },
+    {
+      "id": "1774736107297",
+      "createdAt": "2026-03-28T22:15:07.297Z",
+      "magazine": "Marie Claire",
+      "year": 2018,
+      "month": 3,
+      "issueInfo": "3월호",
+      "brand": "",
+      "country": "Korea",
+      "imageUrls": [
+        "https://i.pinimg.com/originals/6d/7b/a0/6d7ba07c3acf2c1e1d9c2167514291fd.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774736207075",
+      "createdAt": "2026-03-28T22:16:47.075Z",
+      "magazine": "Ceci",
+      "year": 2018,
+      "month": 3,
+      "issueInfo": "3월호",
+      "brand": "Yves Saint Laurent Beauty",
+      "country": "Korea",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SQCjtIWpjhrNwttRDpjMe3YQdq1eeAmBhwOCYIh0d3DBU9K0JVvduwglSbo_-4mNMIgCDcb4AxDiGyUgrZaBgnBcOeSv47qu6rVmbzaCfp18ffrvwdqAC2lpRvvF5Of0SwoZGb_9q7rfZ2aOPqhtBxza2uvpsRSfBiYLt2L0hcz81_zXNUAkTKpvdGSmbz6j6MN9ZU79L0dIR_4m0OIXdY1wnJzATdUhKOtNGE=w1280",
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SSy_7QTC6ogXPRYmLJjwfwXbINJNG2ld80a2RpbV7fbqYiTVxO6rlHgA1rW35cRU7iXLsl5nAWJ4ryK9-beOxjWzdpgyBH0g4bsC84aXfEmywYIbXWd17nZRkGOQwnu2FzsAnCZPWE1VsAytzTCW7SSX6k8js4Bk_XD65S3iMTw1VjpF6wK8bM3MDeMgvIujcobk-cmKOWcsEsQLBYdOHaAI77sBsZ5frz-4Kc=w1280"
+      ],
+      "memo": "with 로제"
+    },
+    {
+      "id": "1774736363177",
+      "createdAt": "2026-03-28T22:19:23.177Z",
+      "magazine": "High Cut",
+      "year": 2018,
+      "month": 6,
+      "issueInfo": "224호",
+      "brand": "",
+      "country": "Korea",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SQzRDoUjSFuyAM_NvEA3hKTra2XAboFPMD98S7dYDiJSYjX1T9iSl7oZeiyZh5hLJ868-CNdexlGMihLeQcQdzDxBfe60WqvIxQGMzY1w8bB4Ry91n3B62DQ1TzJj_LFxF_Ffnb6E3kGxxYAzxQu5cTCNixAGHvpST4C4Y4pDvEA9ew7Lj9CjkikIsTf8NjahxA3LzKxERLE2YhnBIkTTk3KhKlm4ZatNBd=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774736561826",
+      "createdAt": "2026-03-28T22:22:41.826Z",
+      "magazine": "Cosmopolitan",
+      "year": 2018,
+      "month": 8,
+      "issueInfo": "8월호",
+      "brand": "",
+      "country": "Korea",
+      "imageUrls": [
+        "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/655274200_18382872706094606_6550999454461001528_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MTgyNTEzNjA4NjM2NTgwNDUzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=b5ovcLmdFeMQ7kNvwGCL2By&_nc_oc=AdooNATQ8jnA4B2Dk9Tlebf79fxX67DnAaAMVWAwXkI6C0ZIWc58ybmTXBMEMj3UBNE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-1.fna&_nc_gid=6OBknd-pO3AUP8mK16lquw&_nc_ss=7a32e&oh=00_AfxbH-wSnR-A7KNmKR6bzaPLztjehTCrIzGHipzO4siPcQ&oe=69CE3BBB"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774736620468",
+      "createdAt": "2026-03-28T22:23:40.468Z",
+      "magazine": "WWD Beauty",
+      "year": 2018,
+      "month": 8,
+      "issueInfo": "8월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SS9e-TQM9QErLMACbQVlG7oJgJCcsMrb4nBgvmtMHdXqMjmQQwUd9HdbrddoAnhB5T7hX46pw-YQnsvJq69RjW4UGQ7efUQiTJf6U1Vw1r0KNVvP-Ep-ApsSuPAfNpHhxpJZ3xoaLQ9rcz00cmDZHcBkNsJW_ZwI3sAMFYPvIS83uDjSQnuCJehBcp8KDW1ou3k_hpZdmlohb-Z4nQOhFQGNUyiYWBlRaaJB28=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774736665370",
+      "createdAt": "2026-03-28T22:24:25.370Z",
+      "magazine": "Grazia",
+      "year": 2018,
+      "month": 10,
+      "issueInfo": "10월호",
+      "brand": "",
+      "country": "China",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0STfYKZbuH6WRfsR7bRQUcqxw5iSEZndrswAFSL0Pf0EtkihU9ToKyW0MmpKwSodgQ9hl4xnzwCCmOslU0kJGQP6nYW9sZCpMFlRNSg_0wIZA-nvtPH2A8GjGJMng9TW0BF-CKw_lEga4rlGzzYStxIko8Fll6R7aCaR0Vw4RgBmUl2c7k2a0YjqFebNbH5zFe4jYElt16o0R8TaRWQEg5fkUCw8rk7yAuzRNpk=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774736712669",
+      "createdAt": "2026-03-28T22:25:12.669Z",
+      "magazine": "Glitter",
+      "year": 2018,
+      "month": 10,
+      "issueInfo": "10월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SRjS1SfR192M5jMBk8tNiCuRIW-3SxfKxi9DGOyu3MYMobZLCoVJWLEpn-cWYP_4RmJVAi8ii_9uE6fsid9BoaJk2vk7MGDFx5ArsImrTqrdGZhkM1H3wf_k6QN4GcKt61MeXp6aR1dOmstSu7M6R9_F_1DOj7DsLRlUiHr8JNgImZXrzwDyIdObgItbzYf84aSIQ2YyhE4qGA69L0akGWPYtmWUWf9V7u-=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774736742356",
+      "createdAt": "2026-03-28T22:25:42.356Z",
+      "magazine": "JJ",
+      "year": 2018,
+      "month": 11,
+      "issueInfo": "11월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://i.ebayimg.com/images/g/ZnoAAOSwUfBdQoXm/s-l640.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774736824538",
+      "createdAt": "2026-03-28T22:27:04.538Z",
+      "magazine": "Nylon",
+      "year": 2017,
+      "month": 1,
+      "issueInfo": "1월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://www.nylon.jp/uploads/2016/11/cover2.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774736932492",
+      "createdAt": "2026-03-28T22:28:52.492Z",
+      "magazine": "Elle",
+      "year": 2017,
+      "month": 8,
+      "issueInfo": "8월호",
+      "brand": "Saint Laurent",
+      "country": "Korea",
+      "imageUrls": [
+        "https://www.elle.co.kr/resources_old/online/org_online_image/el/6c173dee-49e2-4a58-a03d-91ed873d234e.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774736976157",
+      "createdAt": "2026-03-28T22:29:36.157Z",
+      "magazine": "Popteen",
+      "year": 2017,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SS1zDJQsHu__BbFP681KCdNmuH0OTqhCSfJAFT27KsEW03P5A38xhBWBkV7KcRXN5C2hBEAge-8glxLiyNx3lH7EumAWygJSE30FBOjGaAoM0pIilVO-HcEWaO_B9jHTWC1voUtQQEz4UlsfvHbY4Rb5So28LjwIYq2WIu2lxpfaZFRbWaxTBjpm_EtT-IvkBggc4mHhO09tkdZ8YCZeNnPmQKnlIzmvUZrXMM=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737135318",
+      "createdAt": "2026-03-28T22:32:15.318Z",
+      "magazine": "Nylon",
+      "year": 2017,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SQlNMd830Apnp-wFm5znpSQA1Z-egeksW4gfGM7M3sPsupyIBTQgbDDaMqYOaOnO7QCohXaveAmcG5PTp_A8Jzb-mqyrWUrraxMiy2f0ZhUgXYh1wfU20A-3RpnPHvcNQUzNkV5YjbKZEaci82OMEjhzvPiV6tguIJlPqEGMCmEwifQFtXUaHIa03hG2P6bvsEaXX2X9qEHsiz7qD2nzgiPdJOg3MJqfsFcO-A=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737197500",
+      "createdAt": "2026-03-28T22:33:17.500Z",
+      "magazine": "NYLON X SHEL'TTER",
+      "year": 2017,
+      "month": 9,
+      "issueInfo": "9월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SQa386uzfMVmK0F0KcZzdJ4OhxA0jpDDJr-PKClFcny2R8wlzr3KzeYp1Kfn1Pi5y7E1wNYXIj9B7MJocWtS00C2V3gvaoRLq3Ugcjrbw1jC_qPhh9YAQu7Xg8FhUjtJaXOV-QJMZaeLtXXyREdcxs4SArmJ4KcFKLD3sdCtnlMmIva800nF1rNZkVB2qFgJIoOBth4lXGnD_XzmYRH38rNOYOkvcaWDG4GkkU=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737259756",
+      "createdAt": "2026-03-28T22:34:19.756Z",
+      "magazine": "SHEL'TTER",
+      "year": 2017,
+      "month": 9,
+      "issueInfo": "가을호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SQ1j7ruf7dO5kd1JKAHiUy2BcYQfqzbE98zRoJippK4em_ZST5XlhHFfE9l8sCrKKDp00GnfT1xliGVLWgv1wYzwxa_Y6Ric9xwBR41iKCJtSKpLIKkk3yT65FhRLO-x9z4K9Ppol8p12JtvjIrZ97l6Ed7jKjGM1XcYtcNXdpWVWHh-OnO9jxd-pZdPowUM8ApwXwu1FzX54JABnEYHDnuBWcah-Bu2XPcWxw=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737286133",
+      "createdAt": "2026-03-28T22:34:46.133Z",
+      "magazine": "S Cawaii",
+      "year": 2017,
+      "month": 10,
+      "issueInfo": "10월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SSsXoo98CNYbwgfPzq6xgitsM-JoyMn-dS7hj0_yY33dU5K6WPHe9i8_k5qpfZ6s7J5WGlOy7UbtdcrBVihUPBxn1_IZLR1c-Jbda1bGX6jkymKOkko2eUFa7FFZlmOD0xM21R7No7w-XogvoKApmSqteUH1aizJUZnSzAtnGawXWqDpqjg7zqSWV4ExRTPrRy1fhSoX34hdH16rJFYAZAugyTu5mXua_q69JQ=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737329355",
+      "createdAt": "2026-03-28T22:35:29.355Z",
+      "magazine": "Zipper",
+      "year": 2017,
+      "month": 10,
+      "issueInfo": "가을호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://www.moshimoshi-nippon.jp/wp/wp-content/uploads/2017/09/Zipper-AUTUMN_HY1-copy2.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737376071",
+      "createdAt": "2026-03-28T22:36:16.071Z",
+      "magazine": "Numero TOKYO",
+      "year": 2017,
+      "month": 11,
+      "issueInfo": "11월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SQ2SA8ljvCvF-JFIuZKttVq5AGeZN9icyQNfuLun5XDSDFYVNLi1HpWKPRmfc47GOr5GkjJPpX00J_3r9cetRL8ZnsRubRFTK09-oQk-W2lE-bqh6nmfMsiDnsXftHH52Unihs3vtqKdtD5bqLwSN6ITJIQdpDuPMi7qTGHVXOP_FdN2JBPIA=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737435200",
+      "createdAt": "2026-03-28T22:37:15.200Z",
+      "magazine": "SHEL'TTER",
+      "year": 2017,
+      "month": 11,
+      "issueInfo": "겨울호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SSe9cs6FI4myntGwuVMk7tVLmj97eK9zkOuC5JgAtJJ26jLQLlIOBYYEF4SerMcxkEwWWlgovrPeWItGA1v2dJbprgUwHg8HmgS05HJgzXbVTIJTe_V01K1iunQQ8lcGxCchEuo6ea9n1O_ios5ACwEZhp6ifZseOMYVEgLRRFWw2U0-g_gq5hojc9gguSuICwmxzwsjY6VwVuP-v2zvy4u0CExI3EXSTRMH2U=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737463700",
+      "createdAt": "2026-03-28T22:37:43.700Z",
+      "magazine": "GQ",
+      "year": 2017,
+      "month": 12,
+      "issueInfo": "12월호",
+      "brand": "",
+      "country": "Japan",
+      "imageUrls": [
+        "https://lh3.googleusercontent.com/sitesv/APaQ0SSPzAZlxgYBy1yfIJLRwx_O_2E2lceVfvSPbtVjDeuGkzslCxEOnYWX9STD2nKX2FKUmPxbh3ZU4NioSiE85vxxcvC64YHEqUXoS8PZ65bqE_uiv349MgQLpMGPZ3IdRba1oPKkSnxZZAUUGecadxh-cvN-29BjPOQvZ7wcQJn3iy_5otGfDqb7IEDZDNaDNrVHtGYb5Z0bscVrOAtL--kOisN6SMfU7pJPzVw=w1280"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774737500299",
+      "createdAt": "2026-03-28T22:38:20.299Z",
+      "magazine": "Nylon",
+      "year": 2016,
+      "month": 11,
+      "issueInfo": "11월호",
+      "brand": "",
+      "country": "Korea",
+      "imageUrls": [
+        "https://pbs.twimg.com/media/CvOXvDHUsAAvATt.jpg"
+      ],
+      "memo": ""
+    }
+  ]
 }
