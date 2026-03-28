@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T21:24:10.075Z",
+  "lastUpdated": "2026-03-28T21:24:59.896Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -403,6 +403,21 @@
       "imageUrls": [
         "https://pbs.twimg.com/media/FTwzdZOXsAAY89s?format=jpg&name=large",
         "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/624833240_18143901922417146_8714650436793255202_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mjg0NDQ3MDczNDc5OTEyMTAwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=2utbcYtLFMsQ7kNvwEGXH0-&_nc_oc=AdruPytyQaXS4XMNNwYuYzvSIS1mcyQ3y5lEdpxxBM0MBoiWh_Srpb_hyCPIwvBNTk4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fykz1-2.fna&_nc_gid=JxpPuBRTm8vkHovubYW_4A&_nc_ss=7a32e&oh=00_AfytcFuSJ8k2s-9VbmyexuZAvpFjnpM6mOCm-GZG2w0Ozg&oe=69CE27BC"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774733099896",
+      "createdAt": "2026-03-28T21:24:59.896Z",
+      "magazine": "Harper's Bazaar",
+      "year": null,
+      "month": 5,
+      "issueInfo": "5월호",
+      "brand": "Dior",
+      "country": "Japan",
+      "imageUrls": [
+        "https://hips.hearstapps.com/hmg-prod/images/hb2205-regular-1646963697.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/hb2205-teiki-1-1646963841.jpg?resize=980:*"
       ],
       "memo": ""
     }
