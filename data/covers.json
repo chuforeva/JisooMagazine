@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T21:11:35.260Z",
+  "lastUpdated": "2026-03-28T21:12:48.121Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -309,6 +309,20 @@
         "https://www.elle.co.kr/resources_old/online/org_online_image/el/a5948dfa-ce37-4ed0-89c9-2d9196586602.jpg",
         "https://www.elle.co.kr/resources_old/online/org_online_image/el/963ae63a-d769-445b-848c-bbbc6c69f4ce.jpg",
         "https://www.elle.co.kr/resources_old/online/org_online_image/el/49897a44-ebc1-4511-bcfc-23580cb3dce1.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774732368121",
+      "createdAt": "2026-03-28T21:12:48.121Z",
+      "magazine": "Vogue",
+      "year": 2023,
+      "month": 3,
+      "issueInfo": "3월호",
+      "brand": "Dior",
+      "country": "France",
+      "imageUrls": [
+        "https://media.vogue.fr/photos/63f4f92b347bfdc53dec3b39/2:3/w_1280,c_limit/COVER-1035-blanc.jpg"
       ],
       "memo": ""
     }
