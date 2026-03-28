@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-28T21:01:54.899Z",
+  "lastUpdated": "2026-03-28T21:03:17.946Z",
   "covers": [
     {
       "id": "1774727166700",
@@ -212,6 +212,22 @@
         "https://img.marieclairekorea.com//2024/08/mck_66bcc587b9a6e-838x1024.jpg",
         "https://img.marieclairekorea.com//2024/08/mck_66bcc59adb232-838x1024.jpg",
         "https://img.marieclairekorea.com//2024/08/mck_66bcc5a132888-838x1024.jpg"
+      ],
+      "memo": ""
+    },
+    {
+      "id": "1774731797946",
+      "createdAt": "2026-03-28T21:03:17.946Z",
+      "magazine": "Vogue",
+      "year": 2024,
+      "month": 6,
+      "issueInfo": "6월호",
+      "brand": "Cartier",
+      "country": "Hong Kong",
+      "imageUrls": [
+        "https://img.voguehk.com/media/2024/06/01160122/VHK_062-Digital-COVER-Print-2-Large.jpeg",
+        "https://img.voguehk.com/media/2024/05/VHK_062-Digital-COVER-Print2-1439x1800.jpg",
+        "https://img.voguehk.com/media/2024/06/01160131/VHK_062-Digital-COVERIGv2-2-Large.jpeg"
       ],
       "memo": ""
     }
